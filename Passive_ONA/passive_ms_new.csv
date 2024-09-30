@@ -1,0 +1,549 @@
+Employee ID_sender,Employee ID_receiver,relevanceScore,On Site Frequency_sender,Position Title_sender,Date in service_sender,Business Unit level 1_sender,Business Unit level 2_sender,On Site Frequency_receiver,Position Title_receiver,Date in service_receiver,Business Unit level 1_receiver,Business Unit level 2_receiver,Years in service_sender,Years in service_receiver
+3007231,2003018,724.0,Hybrid,Merchandising Specialist I,2021-03-15,Brand 2,Product Merchandising - Brand 2,Hybrid,"Sr. Manager, Merchandising",2015-03-04,Brand 2,Product Merchandising - Brand 2,3.42,9.45
+3007231,2003155,675.0,Hybrid,Merchandising Specialist I,2021-03-15,Brand 2,Product Merchandising - Brand 2,Hybrid,"Director, Business Line",2018-11-05,Brand 2,Product Merchandising - Brand 2,3.42,5.78
+3007231,2003148,324.0,Hybrid,Merchandising Specialist I,2021-03-15,Brand 2,Product Merchandising - Brand 2,Hybrid,"Sr. Director, Marketing",2015-11-16,Brand 2,Marketing - Brand 2,3.42,8.75
+3007231,2003133,291.0,Hybrid,Merchandising Specialist I,2021-03-15,Brand 2,Product Merchandising - Brand 2,Hybrid,"Sr. Manager, Brand Marketing",2012-06-18,Brand 2,Marketing - Brand 2,3.42,12.16
+3007231,3022260,285.0,Hybrid,Merchandising Specialist I,2021-03-15,Brand 2,Product Merchandising - Brand 2,Hybrid,Graphic Designer I,2022-06-20,Brand 2,Marketing - Brand 2,3.42,2.15
+3007231,3042755,231.0,Hybrid,Merchandising Specialist I,2021-03-15,Brand 2,Product Merchandising - Brand 2,Fully Remote,"Manager, CRM",2024-01-08,Brand 2,Marketing - Brand 2,3.42,0.6
+3007231,3031509,221.0,Hybrid,Merchandising Specialist I,2021-03-15,Brand 2,Product Merchandising - Brand 2,Fully Remote,Sr. Digital Marketing Specialist II,2022-12-05,Corporate,Marketing,3.42,1.69
+3007231,2002643,162.0,Hybrid,Merchandising Specialist I,2021-03-15,Brand 2,Product Merchandising - Brand 2,Hybrid,"Manager, Marketing",2021-05-03,Brand 2,Marketing - Brand 2,3.42,3.28
+3007231,2003109,68.0,Hybrid,Merchandising Specialist I,2021-03-15,Brand 2,Product Merchandising - Brand 2,Fully Remote,Lead Customer Service Representative 5,2021-01-25,Brand 2,Customer Service - Brand 2,3.42,3.55
+3044059,3031524,122.0,Fully Remote,"Sr. Manager, Engineering",2024-04-22,Corporate,Engineering - Brand 2,Fully Remote,"Director, Engineering",2022-11-28,Corporate,Engineering - Brand 2,0.31,1.71
+3044059,2003000,121.0,Fully Remote,"Sr. Manager, Engineering",2024-04-22,Corporate,Engineering - Brand 2,Fully Remote,Sr. Product Specialist I,2013-02-11,Corporate,Engineering - Brand 2,0.31,11.51
+3044059,3021660,65.0,Fully Remote,"Sr. Manager, Engineering",2024-04-22,Corporate,Engineering - Brand 2,Hybrid,"Sr. Director, eCommerce",2022-05-09,Corporate,Engineering - Brand 2,0.31,2.27
+3044059,2002394,65.0,Fully Remote,"Sr. Manager, Engineering",2024-04-22,Corporate,Engineering - Brand 2,Hybrid,"Manager, Product Management",2015-03-13,Corporate,Engineering - Brand 2,0.31,9.43
+3044059,3027478,64.0,Fully Remote,"Sr. Manager, Engineering",2024-04-22,Corporate,Engineering - Brand 2,Fully Remote,Product Manager,2022-09-12,Corporate,Engineering - Brand 2,0.31,1.92
+3044059,2002330,55.0,Fully Remote,"Sr. Manager, Engineering",2024-04-22,Corporate,Engineering - Brand 2,Fully Remote,Product Manager,2017-06-19,Corporate,Technology,0.31,7.16
+2003144,2003217,29.0,Hybrid,Principal Software Development Engineer,2014-06-23,Corporate,Engineering - Brand 2,Hybrid,Principal Software Development Engineer,2019-02-21,Corporate,Engineering - Brand 2,10.15,5.48
+2003144,3031524,19.0,Hybrid,Principal Software Development Engineer,2014-06-23,Corporate,Engineering - Brand 2,Fully Remote,"Director, Engineering",2022-11-28,Corporate,Engineering - Brand 2,10.15,1.71
+2003144,2003064,19.0,Hybrid,Principal Software Development Engineer,2014-06-23,Corporate,Engineering - Brand 2,Hybrid,Sr. Software Development Engineer I,2015-10-28,Corporate,Engineering - Brand 2,10.15,8.8
+2003148,2002643,1426.0,Hybrid,"Sr. Director, Marketing",2015-11-16,Brand 2,Marketing - Brand 2,Hybrid,"Manager, Marketing",2021-05-03,Brand 2,Marketing - Brand 2,8.75,3.28
+2003148,3040598,1054.0,Hybrid,"Sr. Director, Marketing",2015-11-16,Brand 2,Marketing - Brand 2,Fully Remote,"VP, GM Brand 2",2023-10-04,Corporate,Leadership,8.75,0.86
+2003148,2003133,667.0,Hybrid,"Sr. Director, Marketing",2015-11-16,Brand 2,Marketing - Brand 2,Hybrid,"Sr. Manager, Brand Marketing",2012-06-18,Brand 2,Marketing - Brand 2,8.75,12.16
+2003148,2003036,486.0,Hybrid,"Sr. Director, Marketing",2015-11-16,Brand 2,Marketing - Brand 2,Hybrid,"Director, Sales",2021-02-15,Brand 2,Sales - Brand 2,8.75,3.49
+2003148,2002680,452.0,Hybrid,"Sr. Director, Marketing",2015-11-16,Brand 2,Marketing - Brand 2,Hybrid,Collaborations Specialist I,2020-06-16,Brand 2,Marketing - Brand 2,8.75,4.16
+2003148,2003191,256.0,Hybrid,"Sr. Director, Marketing",2015-11-16,Brand 2,Marketing - Brand 2,Hybrid,"Director, Finance",2017-08-07,Corporate,Finance,8.75,7.02
+2003148,3042370,200.0,Hybrid,"Sr. Director, Marketing",2015-11-16,Brand 2,Marketing - Brand 2,Fully Remote,"Director, Growth - Brand 2",2023-11-27,Brand 2,Marketing - Brand 2,8.75,0.71
+2003148,3044041,162.0,Hybrid,"Sr. Director, Marketing",2015-11-16,Brand 2,Marketing - Brand 2,Hybrid,Sr. Social Media Specialist II,2024-04-08,Brand 2,Marketing - Brand 2,8.75,0.35
+2003171,2002271,141.0,Fully Remote,Customer Service Representative 4,2021-07-19,Brand 2,Customer Service - Brand 2,Site Critical,Order Expediter 4,2017-04-10,Operations,Manufacturing-Brand 1,3.07,7.35
+2003171,2002862,130.0,Fully Remote,Customer Service Representative 4,2021-07-19,Brand 2,Customer Service - Brand 2,Site Critical,Lead Machine Operator 5,2019-04-29,Operations,Manufacturing-Brand 1,3.07,5.3
+2003171,3004561,55.0,Fully Remote,Customer Service Representative 4,2021-07-19,Brand 2,Customer Service - Brand 2,Site Critical,Shift Manager - Ops I,2020-10-19,Operations,Manufacturing-Brand 1,3.07,3.82
+2003171,3042755,39.0,Fully Remote,Customer Service Representative 4,2021-07-19,Brand 2,Customer Service - Brand 2,Fully Remote,"Manager, CRM",2024-01-08,Brand 2,Marketing - Brand 2,3.07,0.6
+2003171,3029869,9.0,Fully Remote,Customer Service Representative 4,2021-07-19,Brand 2,Customer Service - Brand 2,Hybrid,Workforce Analyst I,2013-03-05,Brand 2,Customer Service - Brand 2,3.07,11.45
+2003156,2003173,641.0,Hybrid,"Manager, Customer Service",2015-03-09,Brand 2,Customer Service - Brand 2,Hybrid,"Sr. Manager, Customer Service",2014-03-24,Brand 2,Customer Service - Brand 2,9.44,10.4
+2003156,2002893,454.0,Hybrid,"Manager, Customer Service",2015-03-09,Brand 2,Customer Service - Brand 2,Hybrid,Customer Service Representative 4,2012-11-26,Brand 2,Customer Service - Brand 2,9.44,11.72
+2003156,3029869,276.0,Hybrid,"Manager, Customer Service",2015-03-09,Brand 2,Customer Service - Brand 2,Hybrid,Workforce Analyst I,2013-03-05,Brand 2,Customer Service - Brand 2,9.44,11.45
+2003156,3021660,149.0,Hybrid,"Manager, Customer Service",2015-03-09,Brand 2,Customer Service - Brand 2,Hybrid,"Sr. Director, eCommerce",2022-05-09,Corporate,Engineering - Brand 2,9.44,2.27
+2003156,2003191,118.0,Hybrid,"Manager, Customer Service",2015-03-09,Brand 2,Customer Service - Brand 2,Hybrid,"Director, Finance",2017-08-07,Corporate,Finance,9.44,7.02
+2003156,3040598,85.0,Hybrid,"Manager, Customer Service",2015-03-09,Brand 2,Customer Service - Brand 2,Fully Remote,"VP, GM Brand 2",2023-10-04,Corporate,Leadership,9.44,0.86
+2002680,2002643,3957.0,Hybrid,Collaborations Specialist I,2020-06-16,Brand 2,Marketing - Brand 2,Hybrid,"Manager, Marketing",2021-05-03,Brand 2,Marketing - Brand 2,4.16,3.28
+2002680,2003148,1194.0,Hybrid,Collaborations Specialist I,2020-06-16,Brand 2,Marketing - Brand 2,Hybrid,"Sr. Director, Marketing",2015-11-16,Brand 2,Marketing - Brand 2,4.16,8.75
+2002680,2003191,132.0,Hybrid,Collaborations Specialist I,2020-06-16,Brand 2,Marketing - Brand 2,Hybrid,"Director, Finance",2017-08-07,Corporate,Finance,4.16,7.02
+3045090,3042755,147.0,Hybrid,CRM Manager II,2024-07-08,Brand 2,Marketing - Brand 2,Fully Remote,"Manager, CRM",2024-01-08,Brand 2,Marketing - Brand 2,0.1,0.6
+3045090,3042370,138.0,Hybrid,CRM Manager II,2024-07-08,Brand 2,Marketing - Brand 2,Fully Remote,"Director, Growth - Brand 2",2023-11-27,Brand 2,Marketing - Brand 2,0.1,0.71
+3045090,2003018,118.0,Hybrid,CRM Manager II,2024-07-08,Brand 2,Marketing - Brand 2,Hybrid,"Sr. Manager, Merchandising",2015-03-04,Brand 2,Product Merchandising - Brand 2,0.1,9.45
+3045090,3022260,108.0,Hybrid,CRM Manager II,2024-07-08,Brand 2,Marketing - Brand 2,Hybrid,Graphic Designer I,2022-06-20,Brand 2,Marketing - Brand 2,0.1,2.15
+3045090,2003155,98.0,Hybrid,CRM Manager II,2024-07-08,Brand 2,Marketing - Brand 2,Hybrid,"Director, Business Line",2018-11-05,Brand 2,Product Merchandising - Brand 2,0.1,5.78
+3045090,2003133,98.0,Hybrid,CRM Manager II,2024-07-08,Brand 2,Marketing - Brand 2,Hybrid,"Sr. Manager, Brand Marketing",2012-06-18,Brand 2,Marketing - Brand 2,0.1,12.16
+3045090,3033414,98.0,Hybrid,CRM Manager II,2024-07-08,Brand 2,Marketing - Brand 2,Fully Remote,Sr. Merchandising Specialist I,2023-04-10,Brand 2,Product Merchandising - Brand 2,0.1,1.35
+3045090,2003209,98.0,Hybrid,CRM Manager II,2024-07-08,Brand 2,Marketing - Brand 2,Hybrid,"Manager, Merchandising",2015-11-02,Brand 2,Product Merchandising - Brand 2,0.1,8.79
+3045090,3007231,98.0,Hybrid,CRM Manager II,2024-07-08,Brand 2,Marketing - Brand 2,Hybrid,Merchandising Specialist I,2021-03-15,Brand 2,Product Merchandising - Brand 2,0.1,3.42
+3023460,3023032,19.0,Fully Remote,Principal Software Development Engineer,2022-07-25,Corporate,Engineering - Brand 2,Fully Remote,Sr. Software Development Engineer II,2022-07-18,Corporate,Engineering - Brand 2,2.05,2.07
+3023460,2001659,1.0,Fully Remote,Principal Software Development Engineer,2022-07-25,Corporate,Engineering - Brand 2,Hybrid,"Sr. Director, Platform Architecture",2014-09-15,Corporate,Technology,2.05,9.92
+3023460,2001504,1.0,Fully Remote,Principal Software Development Engineer,2022-07-25,Corporate,Engineering - Brand 2,Hybrid,"Director, Network Systems",2013-11-04,Corporate,Technology,2.05,10.78
+2002605,3021660,3196.0,Hybrid,Product Manager,2016-03-02,Corporate,Engineering - Brand 2,Hybrid,"Sr. Director, eCommerce",2022-05-09,Corporate,Engineering - Brand 2,8.45,2.27
+2002605,3031524,1525.0,Hybrid,Product Manager,2016-03-02,Corporate,Engineering - Brand 2,Fully Remote,"Director, Engineering",2022-11-28,Corporate,Engineering - Brand 2,8.45,1.71
+2002605,2003155,1081.0,Hybrid,Product Manager,2016-03-02,Corporate,Engineering - Brand 2,Hybrid,"Director, Business Line",2018-11-05,Brand 2,Product Merchandising - Brand 2,8.45,5.78
+2002605,3029814,833.0,Hybrid,Product Manager,2016-03-02,Corporate,Engineering - Brand 2,Fully Remote,"Director, UX Design",2022-10-31,Corporate,Engineering - Brand 2,8.45,1.79
+2002605,2002394,777.0,Hybrid,Product Manager,2016-03-02,Corporate,Engineering - Brand 2,Hybrid,"Manager, Product Management",2015-03-13,Corporate,Engineering - Brand 2,8.45,9.43
+2002605,2003186,714.0,Hybrid,Product Manager,2016-03-02,Corporate,Engineering - Brand 2,Hybrid,Product Specialist II,2014-03-26,Corporate,Engineering - Brand 2,8.45,10.39
+2002605,2003000,677.0,Hybrid,Product Manager,2016-03-02,Corporate,Engineering - Brand 2,Fully Remote,Sr. Product Specialist I,2013-02-11,Corporate,Engineering - Brand 2,8.45,11.51
+2002605,3043896,404.0,Hybrid,Product Manager,2016-03-02,Corporate,Engineering - Brand 2,Fully Remote,"Sr. Manager, Engineering",2024-04-01,Brand 2,Engineering - Brand 2,8.45,0.37
+2002605,3043751,208.0,Hybrid,Product Manager,2016-03-02,Corporate,Engineering - Brand 2,Hybrid,Merchandising Specialist II,2024-03-18,Brand 2,Product Merchandising - Brand 2,8.45,0.41
+3023646,2002394,545.0,Fully Remote,Product Specialist II,2022-08-01,Corporate,Engineering - Brand 2,Hybrid,"Manager, Product Management",2015-03-13,Corporate,Engineering - Brand 2,2.04,9.43
+3023646,2003000,304.0,Fully Remote,Product Specialist II,2022-08-01,Corporate,Engineering - Brand 2,Fully Remote,Sr. Product Specialist I,2013-02-11,Corporate,Engineering - Brand 2,2.04,11.51
+3023646,3021660,195.0,Fully Remote,Product Specialist II,2022-08-01,Corporate,Engineering - Brand 2,Hybrid,"Sr. Director, eCommerce",2022-05-09,Corporate,Engineering - Brand 2,2.04,2.27
+3023646,2003173,134.0,Fully Remote,Product Specialist II,2022-08-01,Corporate,Engineering - Brand 2,Hybrid,"Sr. Manager, Customer Service",2014-03-24,Brand 2,Customer Service - Brand 2,2.04,10.4
+3023646,2003156,85.0,Fully Remote,Product Specialist II,2022-08-01,Corporate,Engineering - Brand 2,Hybrid,"Manager, Customer Service",2015-03-09,Brand 2,Customer Service - Brand 2,2.04,9.44
+3023646,2002956,76.0,Fully Remote,Product Specialist II,2022-08-01,Corporate,Engineering - Brand 2,Hybrid,"Manager, Customer Service",2017-05-15,Brand 2,Customer Service - Brand 2,2.04,7.25
+3023646,2003193,47.0,Fully Remote,Product Specialist II,2022-08-01,Corporate,Engineering - Brand 2,Hybrid,"Spvsr, Customer Service I",2020-08-10,Brand 2,Customer Service - Brand 2,2.04,4.01
+3023646,3029869,38.0,Fully Remote,Product Specialist II,2022-08-01,Corporate,Engineering - Brand 2,Hybrid,Workforce Analyst I,2013-03-05,Brand 2,Customer Service - Brand 2,2.04,11.45
+2002394,3021660,1129.0,Hybrid,"Manager, Product Management",2015-03-13,Corporate,Engineering - Brand 2,Hybrid,"Sr. Director, eCommerce",2022-05-09,Corporate,Engineering - Brand 2,9.43,2.27
+2002394,2003000,795.0,Hybrid,"Manager, Product Management",2015-03-13,Corporate,Engineering - Brand 2,Fully Remote,Sr. Product Specialist I,2013-02-11,Corporate,Engineering - Brand 2,9.43,11.51
+2002394,2002605,540.0,Hybrid,"Manager, Product Management",2015-03-13,Corporate,Engineering - Brand 2,Hybrid,Product Manager,2016-03-02,Corporate,Engineering - Brand 2,9.43,8.45
+2002394,2003155,353.0,Hybrid,"Manager, Product Management",2015-03-13,Corporate,Engineering - Brand 2,Hybrid,"Director, Business Line",2018-11-05,Brand 2,Product Merchandising - Brand 2,9.43,5.78
+2002394,2003191,231.0,Hybrid,"Manager, Product Management",2015-03-13,Corporate,Engineering - Brand 2,Hybrid,"Director, Finance",2017-08-07,Corporate,Finance,9.43,7.02
+2002394,2003036,216.0,Hybrid,"Manager, Product Management",2015-03-13,Corporate,Engineering - Brand 2,Hybrid,"Director, Sales",2021-02-15,Brand 2,Sales - Brand 2,9.43,3.49
+2002394,3040598,175.0,Hybrid,"Manager, Product Management",2015-03-13,Corporate,Engineering - Brand 2,Fully Remote,"VP, GM Brand 2",2023-10-04,Corporate,Leadership,9.43,0.86
+2002910,2003173,503.0,Hybrid,Customer Service Representative 4,2020-05-26,Brand 2,Customer Service - Brand 2,Hybrid,"Sr. Manager, Customer Service",2014-03-24,Brand 2,Customer Service - Brand 2,4.22,10.4
+2002910,2003018,270.0,Hybrid,Customer Service Representative 4,2020-05-26,Brand 2,Customer Service - Brand 2,Hybrid,"Sr. Manager, Merchandising",2015-03-04,Brand 2,Product Merchandising - Brand 2,4.22,9.45
+2002910,2003209,267.0,Hybrid,Customer Service Representative 4,2020-05-26,Brand 2,Customer Service - Brand 2,Hybrid,"Manager, Merchandising",2015-11-02,Brand 2,Product Merchandising - Brand 2,4.22,8.79
+2002910,2002643,191.0,Hybrid,Customer Service Representative 4,2020-05-26,Brand 2,Customer Service - Brand 2,Hybrid,"Manager, Marketing",2021-05-03,Brand 2,Marketing - Brand 2,4.22,3.28
+2002910,2003036,120.0,Hybrid,Customer Service Representative 4,2020-05-26,Brand 2,Customer Service - Brand 2,Hybrid,"Director, Sales",2021-02-15,Brand 2,Sales - Brand 2,4.22,3.49
+2002910,2003156,84.0,Hybrid,Customer Service Representative 4,2020-05-26,Brand 2,Customer Service - Brand 2,Hybrid,"Manager, Customer Service",2015-03-09,Brand 2,Customer Service - Brand 2,4.22,9.44
+3030188,3029814,711.0,Hybrid,Designer II - UX Design,2022-10-31,Corporate,Engineering - Brand 2,Fully Remote,"Director, UX Design",2022-10-31,Corporate,Engineering - Brand 2,1.79,1.79
+3030188,2002605,231.0,Hybrid,Designer II - UX Design,2022-10-31,Corporate,Engineering - Brand 2,Hybrid,Product Manager,2016-03-02,Corporate,Engineering - Brand 2,1.79,8.45
+3030188,2002909,205.0,Hybrid,Designer II - UX Design,2022-10-31,Corporate,Engineering - Brand 2,Hybrid,Sr. Principal Designer - UX Design,2015-11-18,Corporate,Engineering - Brand 2,1.79,8.74
+3030188,2003133,143.0,Hybrid,Designer II - UX Design,2022-10-31,Corporate,Engineering - Brand 2,Hybrid,"Sr. Manager, Brand Marketing",2012-06-18,Brand 2,Marketing - Brand 2,1.79,12.16
+3030188,2003018,140.0,Hybrid,Designer II - UX Design,2022-10-31,Corporate,Engineering - Brand 2,Hybrid,"Sr. Manager, Merchandising",2015-03-04,Brand 2,Product Merchandising - Brand 2,1.79,9.45
+3030188,3007231,96.0,Hybrid,Designer II - UX Design,2022-10-31,Corporate,Engineering - Brand 2,Hybrid,Merchandising Specialist I,2021-03-15,Brand 2,Product Merchandising - Brand 2,1.79,3.42
+3030188,2003155,77.0,Hybrid,Designer II - UX Design,2022-10-31,Corporate,Engineering - Brand 2,Hybrid,"Director, Business Line",2018-11-05,Brand 2,Product Merchandising - Brand 2,1.79,5.78
+3030188,2003036,55.0,Hybrid,Designer II - UX Design,2022-10-31,Corporate,Engineering - Brand 2,Hybrid,"Director, Sales",2021-02-15,Brand 2,Sales - Brand 2,1.79,3.49
+2003133,2003148,1362.0,Hybrid,"Sr. Manager, Brand Marketing",2012-06-18,Brand 2,Marketing - Brand 2,Hybrid,"Sr. Director, Marketing",2015-11-16,Brand 2,Marketing - Brand 2,12.16,8.75
+2003133,2002934,924.0,Hybrid,"Sr. Manager, Brand Marketing",2012-06-18,Brand 2,Marketing - Brand 2,Hybrid,Sr. Marketing Specialist II,2013-10-16,Brand 2,Marketing - Brand 2,12.16,10.83
+2003133,3022260,859.0,Hybrid,"Sr. Manager, Brand Marketing",2012-06-18,Brand 2,Marketing - Brand 2,Hybrid,Graphic Designer I,2022-06-20,Brand 2,Marketing - Brand 2,12.16,2.15
+2003133,2003018,799.0,Hybrid,"Sr. Manager, Brand Marketing",2012-06-18,Brand 2,Marketing - Brand 2,Hybrid,"Sr. Manager, Merchandising",2015-03-04,Brand 2,Product Merchandising - Brand 2,12.16,9.45
+2003133,3042755,668.0,Hybrid,"Sr. Manager, Brand Marketing",2012-06-18,Brand 2,Marketing - Brand 2,Fully Remote,"Manager, CRM",2024-01-08,Brand 2,Marketing - Brand 2,12.16,0.6
+2003133,2003155,634.0,Hybrid,"Sr. Manager, Brand Marketing",2012-06-18,Brand 2,Marketing - Brand 2,Hybrid,"Director, Business Line",2018-11-05,Brand 2,Product Merchandising - Brand 2,12.16,5.78
+2003133,3042370,480.0,Hybrid,"Sr. Manager, Brand Marketing",2012-06-18,Brand 2,Marketing - Brand 2,Fully Remote,"Director, Growth - Brand 2",2023-11-27,Brand 2,Marketing - Brand 2,12.16,0.71
+2003133,2002620,457.0,Hybrid,"Sr. Manager, Brand Marketing",2012-06-18,Brand 2,Marketing - Brand 2,Hybrid,Sr. Graphic Designer I,2019-11-11,Brand 2,Marketing - Brand 2,12.16,4.76
+2003133,3044041,224.0,Hybrid,"Sr. Manager, Brand Marketing",2012-06-18,Brand 2,Marketing - Brand 2,Hybrid,Sr. Social Media Specialist II,2024-04-08,Brand 2,Marketing - Brand 2,12.16,0.35
+2003036,2003112,3919.0,Hybrid,"Director, Sales",2021-02-15,Brand 2,Sales - Brand 2,Hybrid,Sr. Account Service Manager I,2021-05-10,Brand 2,Sales - Brand 2,3.49,3.26
+2003036,3025972,3078.0,Hybrid,"Director, Sales",2021-02-15,Brand 2,Sales - Brand 2,Fully Remote,Sr. Account Service Manager I,2022-08-22,Brand 2,Sales - Brand 2,3.49,1.98
+2003036,3040598,2212.0,Hybrid,"Director, Sales",2021-02-15,Brand 2,Sales - Brand 2,Fully Remote,"VP, GM Brand 2",2023-10-04,Corporate,Leadership,3.49,0.86
+2003036,2003155,2189.0,Hybrid,"Director, Sales",2021-02-15,Brand 2,Sales - Brand 2,Hybrid,"Director, Business Line",2018-11-05,Brand 2,Product Merchandising - Brand 2,3.49,5.78
+2003036,2003148,1597.0,Hybrid,"Director, Sales",2021-02-15,Brand 2,Sales - Brand 2,Hybrid,"Sr. Director, Marketing",2015-11-16,Brand 2,Marketing - Brand 2,3.49,8.75
+2003036,3042755,1445.0,Hybrid,"Director, Sales",2021-02-15,Brand 2,Sales - Brand 2,Fully Remote,"Manager, CRM",2024-01-08,Brand 2,Marketing - Brand 2,3.49,0.6
+2003036,2003133,1036.0,Hybrid,"Director, Sales",2021-02-15,Brand 2,Sales - Brand 2,Hybrid,"Sr. Manager, Brand Marketing",2012-06-18,Brand 2,Marketing - Brand 2,3.49,12.16
+2003036,3031509,879.0,Hybrid,"Director, Sales",2021-02-15,Brand 2,Sales - Brand 2,Fully Remote,Sr. Digital Marketing Specialist II,2022-12-05,Corporate,Marketing,3.49,1.69
+2003036,3022260,855.0,Hybrid,"Director, Sales",2021-02-15,Brand 2,Sales - Brand 2,Hybrid,Graphic Designer I,2022-06-20,Brand 2,Marketing - Brand 2,3.49,2.15
+3031620,2003133,311.0,Fully Remote,Graphic Designer I,2022-12-05,Brand 2,Marketing - Brand 2,Hybrid,"Sr. Manager, Brand Marketing",2012-06-18,Brand 2,Marketing - Brand 2,1.69,12.16
+3031620,3022260,97.0,Fully Remote,Graphic Designer I,2022-12-05,Brand 2,Marketing - Brand 2,Hybrid,Graphic Designer I,2022-06-20,Brand 2,Marketing - Brand 2,1.69,2.15
+3031620,2003122,79.0,Fully Remote,Graphic Designer I,2022-12-05,Brand 2,Marketing - Brand 2,Hybrid,Graphic Designer II,2020-12-14,Brand 2,Marketing - Brand 2,1.69,3.67
+3031620,2003148,60.0,Fully Remote,Graphic Designer I,2022-12-05,Brand 2,Marketing - Brand 2,Hybrid,"Sr. Director, Marketing",2015-11-16,Brand 2,Marketing - Brand 2,1.69,8.75
+3031620,3042755,57.0,Fully Remote,Graphic Designer I,2022-12-05,Brand 2,Marketing - Brand 2,Fully Remote,"Manager, CRM",2024-01-08,Brand 2,Marketing - Brand 2,1.69,0.6
+3031620,2003018,37.0,Fully Remote,Graphic Designer I,2022-12-05,Brand 2,Marketing - Brand 2,Hybrid,"Sr. Manager, Merchandising",2015-03-04,Brand 2,Product Merchandising - Brand 2,1.69,9.45
+3031620,2002643,29.0,Fully Remote,Graphic Designer I,2022-12-05,Brand 2,Marketing - Brand 2,Hybrid,"Manager, Marketing",2021-05-03,Brand 2,Marketing - Brand 2,1.69,3.28
+3021784,2002271,81.0,Fully Remote,Customer Service Representative 3,2022-05-09,Brand 2,Customer Service - Brand 2,Site Critical,Order Expediter 4,2017-04-10,Operations,Manufacturing-Brand 1,2.27,7.35
+3021784,2003173,71.0,Fully Remote,Customer Service Representative 3,2022-05-09,Brand 2,Customer Service - Brand 2,Hybrid,"Sr. Manager, Customer Service",2014-03-24,Brand 2,Customer Service - Brand 2,2.27,10.4
+3021784,3042755,57.0,Fully Remote,Customer Service Representative 3,2022-05-09,Brand 2,Customer Service - Brand 2,Fully Remote,"Manager, CRM",2024-01-08,Brand 2,Marketing - Brand 2,2.27,0.6
+3021784,3020739,55.0,Fully Remote,Customer Service Representative 3,2022-05-09,Brand 2,Customer Service - Brand 2,Fully Remote,"Manager, Product Sourcing",2022-03-28,Brand 2,Product Merchandising - Brand 2,2.27,2.38
+3021784,2002605,55.0,Fully Remote,Customer Service Representative 3,2022-05-09,Brand 2,Customer Service - Brand 2,Hybrid,Product Manager,2016-03-02,Corporate,Engineering - Brand 2,2.27,8.45
+3021784,3021660,37.0,Fully Remote,Customer Service Representative 3,2022-05-09,Brand 2,Customer Service - Brand 2,Hybrid,"Sr. Director, eCommerce",2022-05-09,Corporate,Engineering - Brand 2,2.27,2.27
+3021784,3026127,36.0,Fully Remote,Customer Service Representative 3,2022-05-09,Brand 2,Customer Service - Brand 2,Fully Remote,Sr. Tax Analyst I,2022-08-29,Corporate,Finance,2.27,1.96
+3021784,2003191,36.0,Fully Remote,Customer Service Representative 3,2022-05-09,Brand 2,Customer Service - Brand 2,Hybrid,"Director, Finance",2017-08-07,Corporate,Finance,2.27,7.02
+3022812,2002909,29.0,Fully Remote,Designer II - UX Design,2022-07-18,Corporate,Engineering - Brand 2,Hybrid,Sr. Principal Designer - UX Design,2015-11-18,Corporate,Engineering - Brand 2,2.07,8.74
+3022812,3029814,10.0,Fully Remote,Designer II - UX Design,2022-07-18,Corporate,Engineering - Brand 2,Fully Remote,"Director, UX Design",2022-10-31,Corporate,Engineering - Brand 2,2.07,1.79
+3022812,2003018,10.0,Fully Remote,Designer II - UX Design,2022-07-18,Corporate,Engineering - Brand 2,Hybrid,"Sr. Manager, Merchandising",2015-03-04,Brand 2,Product Merchandising - Brand 2,2.07,9.45
+3022812,2003155,10.0,Fully Remote,Designer II - UX Design,2022-07-18,Corporate,Engineering - Brand 2,Hybrid,"Director, Business Line",2018-11-05,Brand 2,Product Merchandising - Brand 2,2.07,5.78
+3022812,3030188,9.0,Fully Remote,Designer II - UX Design,2022-07-18,Corporate,Engineering - Brand 2,Hybrid,Designer II - UX Design,2022-10-31,Corporate,Engineering - Brand 2,2.07,1.79
+3027478,3042739,1138.0,Fully Remote,Product Manager,2022-09-12,Corporate,Engineering - Brand 2,Fully Remote,Sr. Principal Data Engineer,2024-01-16,Corporate,Engineering - Brand 2,1.92,0.58
+3027478,3021660,1078.0,Fully Remote,Product Manager,2022-09-12,Corporate,Engineering - Brand 2,Hybrid,"Sr. Director, eCommerce",2022-05-09,Corporate,Engineering - Brand 2,1.92,2.27
+3027478,3038672,817.0,Fully Remote,Product Manager,2022-09-12,Corporate,Engineering - Brand 2,Hybrid,Sr. Data Engineer I,2023-09-18,Corporate,Engineering - Brand 2,1.92,0.9
+3027478,2001983,497.0,Fully Remote,Product Manager,2022-09-12,Corporate,Engineering - Brand 2,Hybrid,"Manager, Performance Analytics",2015-11-23,Corporate,Supply Chain,1.92,8.73
+3027478,3031524,205.0,Fully Remote,Product Manager,2022-09-12,Corporate,Engineering - Brand 2,Fully Remote,"Director, Engineering",2022-11-28,Corporate,Engineering - Brand 2,1.92,1.71
+3027478,2001135,134.0,Fully Remote,Product Manager,2022-09-12,Corporate,Engineering - Brand 2,Hybrid,"Manager, Systems Engineering",2009-08-26,Corporate,Technology,1.92,14.98
+3027478,3019452,128.0,Fully Remote,Product Manager,2022-09-12,Corporate,Engineering - Brand 2,Hybrid,Data Warehouse Analyst I,2022-01-31,Corporate,Supply Chain,1.92,2.53
+3027478,3044059,107.0,Fully Remote,Product Manager,2022-09-12,Corporate,Engineering - Brand 2,Fully Remote,"Sr. Manager, Engineering",2024-04-22,Corporate,Engineering - Brand 2,1.92,0.31
+3042755,3042370,5457.0,Fully Remote,"Manager, CRM",2024-01-08,Brand 2,Marketing - Brand 2,Fully Remote,"Director, Growth - Brand 2",2023-11-27,Brand 2,Marketing - Brand 2,0.6,0.71
+3042755,2003036,2135.0,Fully Remote,"Manager, CRM",2024-01-08,Brand 2,Marketing - Brand 2,Hybrid,"Director, Sales",2021-02-15,Brand 2,Sales - Brand 2,0.6,3.49
+3042755,2003133,1842.0,Fully Remote,"Manager, CRM",2024-01-08,Brand 2,Marketing - Brand 2,Hybrid,"Sr. Manager, Brand Marketing",2012-06-18,Brand 2,Marketing - Brand 2,0.6,12.16
+3042755,2003155,1614.0,Fully Remote,"Manager, CRM",2024-01-08,Brand 2,Marketing - Brand 2,Hybrid,"Director, Business Line",2018-11-05,Brand 2,Product Merchandising - Brand 2,0.6,5.78
+3042755,2003018,1588.0,Fully Remote,"Manager, CRM",2024-01-08,Brand 2,Marketing - Brand 2,Hybrid,"Sr. Manager, Merchandising",2015-03-04,Brand 2,Product Merchandising - Brand 2,0.6,9.45
+3042755,3022260,1554.0,Fully Remote,"Manager, CRM",2024-01-08,Brand 2,Marketing - Brand 2,Hybrid,Graphic Designer I,2022-06-20,Brand 2,Marketing - Brand 2,0.6,2.15
+3042755,2003148,1261.0,Fully Remote,"Manager, CRM",2024-01-08,Brand 2,Marketing - Brand 2,Hybrid,"Sr. Director, Marketing",2015-11-16,Brand 2,Marketing - Brand 2,0.6,8.75
+3042755,3045090,715.0,Fully Remote,"Manager, CRM",2024-01-08,Brand 2,Marketing - Brand 2,Hybrid,CRM Manager II,2024-07-08,Brand 2,Marketing - Brand 2,0.6,0.1
+3019286,2002895,77.0,Hybrid,Customer Service Representative 3,2022-01-24,Brand 2,Customer Service - Brand 2,Hybrid,"Spvsr, Customer Service I",2015-03-30,Brand 2,Customer Service - Brand 2,2.55,9.38
+3019286,2003173,56.0,Hybrid,Customer Service Representative 3,2022-01-24,Brand 2,Customer Service - Brand 2,Hybrid,"Sr. Manager, Customer Service",2014-03-24,Brand 2,Customer Service - Brand 2,2.55,10.4
+3019286,2002724,27.0,Hybrid,Customer Service Representative 3,2022-01-24,Brand 2,Customer Service - Brand 2,Hybrid,Lead Customer Service Representative 5,2020-06-16,Brand 2,Customer Service - Brand 2,2.55,4.16
+2003136,2002895,2207.0,Fully Remote,Customer Service Representative 3,2021-02-22,Brand 2,Customer Service - Brand 2,Hybrid,"Spvsr, Customer Service I",2015-03-30,Brand 2,Customer Service - Brand 2,3.47,9.38
+2003136,2002956,238.0,Fully Remote,Customer Service Representative 3,2021-02-22,Brand 2,Customer Service - Brand 2,Hybrid,"Manager, Customer Service",2017-05-15,Brand 2,Customer Service - Brand 2,3.47,7.25
+2003136,2001256,124.0,Fully Remote,Customer Service Representative 3,2021-02-22,Brand 2,Customer Service - Brand 2,Site Critical,Lead Quality Coordinator 5,2011-06-20,Operations,Manufacturing-Brand 1,3.47,13.16
+2003136,2002599,105.0,Fully Remote,Customer Service Representative 3,2021-02-22,Brand 2,Customer Service - Brand 2,Site Critical,"Director, Quality",2018-06-04,Operations,Manufacturing-Brand 1,3.47,6.2
+2003136,2001062,105.0,Fully Remote,Customer Service Representative 3,2021-02-22,Brand 2,Customer Service - Brand 2,Site Critical,Lead Quality Coordinator 5,2007-08-01,Operations,Manufacturing-Brand 1,3.47,17.05
+2002643,2003148,2820.0,Hybrid,"Manager, Marketing",2021-05-03,Brand 2,Marketing - Brand 2,Hybrid,"Sr. Director, Marketing",2015-11-16,Brand 2,Marketing - Brand 2,3.28,8.75
+2002643,2002680,2645.0,Hybrid,"Manager, Marketing",2021-05-03,Brand 2,Marketing - Brand 2,Hybrid,Collaborations Specialist I,2020-06-16,Brand 2,Marketing - Brand 2,3.28,4.16
+2002643,2003036,425.0,Hybrid,"Manager, Marketing",2021-05-03,Brand 2,Marketing - Brand 2,Hybrid,"Director, Sales",2021-02-15,Brand 2,Sales - Brand 2,3.28,3.49
+3030382,3031524,29.0,Fully Remote,Principal Software Development Engineer,2022-11-14,Corporate,Engineering - Brand 2,Fully Remote,"Director, Engineering",2022-11-28,Corporate,Engineering - Brand 2,1.75,1.71
+3030382,3021660,29.0,Fully Remote,Principal Software Development Engineer,2022-11-14,Corporate,Engineering - Brand 2,Hybrid,"Sr. Director, eCommerce",2022-05-09,Corporate,Engineering - Brand 2,1.75,2.27
+3030382,3042739,29.0,Fully Remote,Principal Software Development Engineer,2022-11-14,Corporate,Engineering - Brand 2,Fully Remote,Sr. Principal Data Engineer,2024-01-16,Corporate,Engineering - Brand 2,1.75,0.58
+3030382,3038672,19.0,Fully Remote,Principal Software Development Engineer,2022-11-14,Corporate,Engineering - Brand 2,Hybrid,Sr. Data Engineer I,2023-09-18,Corporate,Engineering - Brand 2,1.75,0.9
+3030382,3027478,19.0,Fully Remote,Principal Software Development Engineer,2022-11-14,Corporate,Engineering - Brand 2,Fully Remote,Product Manager,2022-09-12,Corporate,Engineering - Brand 2,1.75,1.92
+3022260,2003133,1348.0,Hybrid,Graphic Designer I,2022-06-20,Brand 2,Marketing - Brand 2,Hybrid,"Sr. Manager, Brand Marketing",2012-06-18,Brand 2,Marketing - Brand 2,2.15,12.16
+3022260,2003209,678.0,Hybrid,Graphic Designer I,2022-06-20,Brand 2,Marketing - Brand 2,Hybrid,"Manager, Merchandising",2015-11-02,Brand 2,Product Merchandising - Brand 2,2.15,8.79
+3022260,3042755,473.0,Hybrid,Graphic Designer I,2022-06-20,Brand 2,Marketing - Brand 2,Fully Remote,"Manager, CRM",2024-01-08,Brand 2,Marketing - Brand 2,2.15,0.6
+3022260,2003148,346.0,Hybrid,Graphic Designer I,2022-06-20,Brand 2,Marketing - Brand 2,Hybrid,"Sr. Director, Marketing",2015-11-16,Brand 2,Marketing - Brand 2,2.15,8.75
+3022260,2003036,342.0,Hybrid,Graphic Designer I,2022-06-20,Brand 2,Marketing - Brand 2,Hybrid,"Director, Sales",2021-02-15,Brand 2,Sales - Brand 2,2.15,3.49
+3022260,2003018,303.0,Hybrid,Graphic Designer I,2022-06-20,Brand 2,Marketing - Brand 2,Hybrid,"Sr. Manager, Merchandising",2015-03-04,Brand 2,Product Merchandising - Brand 2,2.15,9.45
+3022260,3043751,78.0,Hybrid,Graphic Designer I,2022-06-20,Brand 2,Marketing - Brand 2,Hybrid,Merchandising Specialist II,2024-03-18,Brand 2,Product Merchandising - Brand 2,2.15,0.41
+3022260,3045090,78.0,Hybrid,Graphic Designer I,2022-06-20,Brand 2,Marketing - Brand 2,Hybrid,CRM Manager II,2024-07-08,Brand 2,Marketing - Brand 2,2.15,0.1
+2003217,2003144,29.0,Hybrid,Principal Software Development Engineer,2019-02-21,Corporate,Engineering - Brand 2,Hybrid,Principal Software Development Engineer,2014-06-23,Corporate,Engineering - Brand 2,5.48,10.15
+2003217,3031524,9.0,Hybrid,Principal Software Development Engineer,2019-02-21,Corporate,Engineering - Brand 2,Fully Remote,"Director, Engineering",2022-11-28,Corporate,Engineering - Brand 2,5.48,1.71
+2003217,2003064,9.0,Hybrid,Principal Software Development Engineer,2019-02-21,Corporate,Engineering - Brand 2,Hybrid,Sr. Software Development Engineer I,2015-10-28,Corporate,Engineering - Brand 2,5.48,8.8
+3042370,3042755,778.0,Fully Remote,"Director, Growth - Brand 2",2023-11-27,Brand 2,Marketing - Brand 2,Fully Remote,"Manager, CRM",2024-01-08,Brand 2,Marketing - Brand 2,0.71,0.6
+3042370,3040598,763.0,Fully Remote,"Director, Growth - Brand 2",2023-11-27,Brand 2,Marketing - Brand 2,Fully Remote,"VP, GM Brand 2",2023-10-04,Corporate,Leadership,0.71,0.86
+3042370,3042810,434.0,Fully Remote,"Director, Growth - Brand 2",2023-11-27,Brand 2,Marketing - Brand 2,Fully Remote,Sr. Web Analyst II,2024-02-12,Corporate,Marketing,0.71,0.5
+3042370,2003155,318.0,Fully Remote,"Director, Growth - Brand 2",2023-11-27,Brand 2,Marketing - Brand 2,Hybrid,"Director, Business Line",2018-11-05,Brand 2,Product Merchandising - Brand 2,0.71,5.78
+3042370,3019878,302.0,Fully Remote,"Director, Growth - Brand 2",2023-11-27,Brand 2,Marketing - Brand 2,Hybrid,Sr. Web Analyst I,2022-02-22,Corporate,Marketing,0.71,2.47
+3042370,3015847,265.0,Fully Remote,"Director, Growth - Brand 2",2023-11-27,Brand 2,Marketing - Brand 2,Hybrid,"Director, Social Media",2021-10-11,Corporate,Marketing,0.71,2.84
+3042370,3033414,203.0,Fully Remote,"Director, Growth - Brand 2",2023-11-27,Brand 2,Marketing - Brand 2,Fully Remote,Sr. Merchandising Specialist I,2023-04-10,Brand 2,Product Merchandising - Brand 2,0.71,1.35
+3042370,3045090,164.0,Fully Remote,"Director, Growth - Brand 2",2023-11-27,Brand 2,Marketing - Brand 2,Hybrid,CRM Manager II,2024-07-08,Brand 2,Marketing - Brand 2,0.71,0.1
+2003000,2002394,926.0,Fully Remote,Sr. Product Specialist I,2013-02-11,Corporate,Engineering - Brand 2,Hybrid,"Manager, Product Management",2015-03-13,Corporate,Engineering - Brand 2,11.51,9.43
+2003000,2002940,795.0,Fully Remote,Sr. Product Specialist I,2013-02-11,Corporate,Engineering - Brand 2,Hybrid,"Sr. Manager, Transportation & Logistics",2011-04-27,Corporate,Supply Chain,11.51,13.31
+2003000,3021660,671.0,Fully Remote,Sr. Product Specialist I,2013-02-11,Corporate,Engineering - Brand 2,Hybrid,"Sr. Director, eCommerce",2022-05-09,Corporate,Engineering - Brand 2,11.51,2.27
+2003000,2002330,584.0,Fully Remote,Sr. Product Specialist I,2013-02-11,Corporate,Engineering - Brand 2,Fully Remote,Product Manager,2017-06-19,Corporate,Technology,11.51,7.16
+2003000,2003173,281.0,Fully Remote,Sr. Product Specialist I,2013-02-11,Corporate,Engineering - Brand 2,Hybrid,"Sr. Manager, Customer Service",2014-03-24,Brand 2,Customer Service - Brand 2,11.51,10.4
+2003000,3031524,216.0,Fully Remote,Sr. Product Specialist I,2013-02-11,Corporate,Engineering - Brand 2,Fully Remote,"Director, Engineering",2022-11-28,Corporate,Engineering - Brand 2,11.51,1.71
+2003000,2003139,185.0,Fully Remote,Sr. Product Specialist I,2013-02-11,Corporate,Engineering - Brand 2,Fully Remote,Product Specialist II,2013-10-16,Corporate,Technology,11.51,10.83
+2003000,2001382,145.0,Fully Remote,Sr. Product Specialist I,2013-02-11,Corporate,Engineering - Brand 2,Hybrid,Application Engineering Director,2008-08-27,Corporate,Technology,11.51,15.97
+2002956,2003173,420.0,Hybrid,"Manager, Customer Service",2017-05-15,Brand 2,Customer Service - Brand 2,Hybrid,"Sr. Manager, Customer Service",2014-03-24,Brand 2,Customer Service - Brand 2,7.25,10.4
+2002956,2002895,305.0,Hybrid,"Manager, Customer Service",2017-05-15,Brand 2,Customer Service - Brand 2,Hybrid,"Spvsr, Customer Service I",2015-03-30,Brand 2,Customer Service - Brand 2,7.25,9.38
+2002956,2002252,275.0,Hybrid,"Manager, Customer Service",2017-05-15,Brand 2,Customer Service - Brand 2,Hybrid,Customer Service Representative 3,2017-07-25,Brand 2,Customer Service - Brand 2,7.25,7.06
+2002956,2003136,243.0,Hybrid,"Manager, Customer Service",2017-05-15,Brand 2,Customer Service - Brand 2,Fully Remote,Customer Service Representative 3,2021-02-22,Brand 2,Customer Service - Brand 2,7.25,3.47
+2002956,2003193,191.0,Hybrid,"Manager, Customer Service",2017-05-15,Brand 2,Customer Service - Brand 2,Hybrid,"Spvsr, Customer Service I",2020-08-10,Brand 2,Customer Service - Brand 2,7.25,4.01
+2002956,2002271,101.0,Hybrid,"Manager, Customer Service",2017-05-15,Brand 2,Customer Service - Brand 2,Site Critical,Order Expediter 4,2017-04-10,Operations,Manufacturing-Brand 1,7.25,7.35
+3037311,3031524,29.0,Fully Remote,Sr. Principal Software Development Engineer,2023-08-28,Corporate,Engineering - Brand 2,Fully Remote,"Director, Engineering",2022-11-28,Corporate,Engineering - Brand 2,0.96,1.71
+3037311,2002605,9.0,Fully Remote,Sr. Principal Software Development Engineer,2023-08-28,Corporate,Engineering - Brand 2,Hybrid,Product Manager,2016-03-02,Corporate,Engineering - Brand 2,0.96,8.45
+3037311,3034698,9.0,Fully Remote,Sr. Principal Software Development Engineer,2023-08-28,Corporate,Engineering - Brand 2,Fully Remote,Sr. Software Development Engineer I,2023-07-10,Corporate,Engineering - Brand 2,0.96,1.1
+3037311,2003186,9.0,Fully Remote,Sr. Principal Software Development Engineer,2023-08-28,Corporate,Engineering - Brand 2,Hybrid,Product Specialist II,2014-03-26,Corporate,Engineering - Brand 2,0.96,10.39
+3037311,3027665,9.0,Fully Remote,Sr. Principal Software Development Engineer,2023-08-28,Corporate,Engineering - Brand 2,Hybrid,"Sr. Director, Optimization",2022-09-19,Corporate,Marketing,0.96,1.9
+2003209,2003155,2358.0,Hybrid,"Manager, Merchandising",2015-11-02,Brand 2,Product Merchandising - Brand 2,Hybrid,"Director, Business Line",2018-11-05,Brand 2,Product Merchandising - Brand 2,8.79,5.78
+2003209,3043751,2241.0,Hybrid,"Manager, Merchandising",2015-11-02,Brand 2,Product Merchandising - Brand 2,Hybrid,Merchandising Specialist II,2024-03-18,Brand 2,Product Merchandising - Brand 2,8.79,0.41
+2003209,3020739,1737.0,Hybrid,"Manager, Merchandising",2015-11-02,Brand 2,Product Merchandising - Brand 2,Fully Remote,"Manager, Product Sourcing",2022-03-28,Brand 2,Product Merchandising - Brand 2,8.79,2.38
+2003209,2003018,1362.0,Hybrid,"Manager, Merchandising",2015-11-02,Brand 2,Product Merchandising - Brand 2,Hybrid,"Sr. Manager, Merchandising",2015-03-04,Brand 2,Product Merchandising - Brand 2,8.79,9.45
+2003209,3042755,1119.0,Hybrid,"Manager, Merchandising",2015-11-02,Brand 2,Product Merchandising - Brand 2,Fully Remote,"Manager, CRM",2024-01-08,Brand 2,Marketing - Brand 2,8.79,0.6
+2003209,2003133,986.0,Hybrid,"Manager, Merchandising",2015-11-02,Brand 2,Product Merchandising - Brand 2,Hybrid,"Sr. Manager, Brand Marketing",2012-06-18,Brand 2,Marketing - Brand 2,8.79,12.16
+2003209,3022260,766.0,Hybrid,"Manager, Merchandising",2015-11-02,Brand 2,Product Merchandising - Brand 2,Hybrid,Graphic Designer I,2022-06-20,Brand 2,Marketing - Brand 2,8.79,2.15
+2003209,3033414,598.0,Hybrid,"Manager, Merchandising",2015-11-02,Brand 2,Product Merchandising - Brand 2,Fully Remote,Sr. Merchandising Specialist I,2023-04-10,Brand 2,Product Merchandising - Brand 2,8.79,1.35
+2003209,3031509,409.0,Hybrid,"Manager, Merchandising",2015-11-02,Brand 2,Product Merchandising - Brand 2,Fully Remote,Sr. Digital Marketing Specialist II,2022-12-05,Corporate,Marketing,8.79,1.69
+3029366,2002252,38.0,Fully Remote,Customer Service Representative 3,2022-10-10,Brand 2,Customer Service - Brand 2,Hybrid,Customer Service Representative 3,2017-07-25,Brand 2,Customer Service - Brand 2,1.84,7.06
+3029366,2003156,19.0,Fully Remote,Customer Service Representative 3,2022-10-10,Brand 2,Customer Service - Brand 2,Hybrid,"Manager, Customer Service",2015-03-09,Brand 2,Customer Service - Brand 2,1.84,9.44
+3029366,2002724,18.0,Fully Remote,Customer Service Representative 3,2022-10-10,Brand 2,Customer Service - Brand 2,Hybrid,Lead Customer Service Representative 5,2020-06-16,Brand 2,Customer Service - Brand 2,1.84,4.16
+3029366,3042755,10.0,Fully Remote,Customer Service Representative 3,2022-10-10,Brand 2,Customer Service - Brand 2,Fully Remote,"Manager, CRM",2024-01-08,Brand 2,Marketing - Brand 2,1.84,0.6
+2002166,3029900,1063.0,Hybrid,Partner Marketing Specialist I,2014-09-29,Brand 2,Marketing - Brand 2,Fully Remote,"Sr. Manager, Channel Marketing",2022-11-14,Brand 2,Marketing - Brand 2,9.88,1.75
+2002166,2002247,486.0,Hybrid,Partner Marketing Specialist I,2014-09-29,Brand 2,Marketing - Brand 2,Site Critical,Production Manager,2017-02-06,Operations,Manufacturing-Brand 1,9.88,7.52
+2002166,2001885,397.0,Hybrid,Partner Marketing Specialist I,2014-09-29,Brand 2,Marketing - Brand 2,Site Critical,"Director, Manufacturing",2017-08-28,Operations,Manufacturing-Brand 1,9.88,6.96
+2002166,2000788,320.0,Hybrid,Partner Marketing Specialist I,2014-09-29,Brand 2,Marketing - Brand 2,Site Critical,Shift Manager - Ops I,2020-06-22,Operations,Manufacturing-Brand 1,9.88,4.15
+2002166,2002027,206.0,Hybrid,Partner Marketing Specialist I,2014-09-29,Brand 2,Marketing - Brand 2,Site Critical,Production Manager,2016-02-22,Operations,Manufacturing-Brand 1,9.88,8.48
+2002166,2001896,96.0,Hybrid,Partner Marketing Specialist I,2014-09-29,Brand 2,Marketing - Brand 2,Site Critical,"Spvsr, Lab Process II",2015-09-21,Operations,Manufacturing-Brand 1,9.88,8.9
+3029814,3021660,814.0,Fully Remote,"Director, UX Design",2022-10-31,Corporate,Engineering - Brand 2,Hybrid,"Sr. Director, eCommerce",2022-05-09,Corporate,Engineering - Brand 2,1.79,2.27
+3029814,2002605,715.0,Fully Remote,"Director, UX Design",2022-10-31,Corporate,Engineering - Brand 2,Hybrid,Product Manager,2016-03-02,Corporate,Engineering - Brand 2,1.79,8.45
+3029814,2002909,416.0,Fully Remote,"Director, UX Design",2022-10-31,Corporate,Engineering - Brand 2,Hybrid,Sr. Principal Designer - UX Design,2015-11-18,Corporate,Engineering - Brand 2,1.79,8.74
+3029814,2003018,304.0,Fully Remote,"Director, UX Design",2022-10-31,Corporate,Engineering - Brand 2,Hybrid,"Sr. Manager, Merchandising",2015-03-04,Brand 2,Product Merchandising - Brand 2,1.79,9.45
+3029814,3042370,291.0,Fully Remote,"Director, UX Design",2022-10-31,Corporate,Engineering - Brand 2,Fully Remote,"Director, Growth - Brand 2",2023-11-27,Brand 2,Marketing - Brand 2,1.79,0.71
+3029814,2003155,262.0,Fully Remote,"Director, UX Design",2022-10-31,Corporate,Engineering - Brand 2,Hybrid,"Director, Business Line",2018-11-05,Brand 2,Product Merchandising - Brand 2,1.79,5.78
+3029814,3042755,255.0,Fully Remote,"Director, UX Design",2022-10-31,Corporate,Engineering - Brand 2,Fully Remote,"Manager, CRM",2024-01-08,Brand 2,Marketing - Brand 2,1.79,0.6
+3022906,2002838,28.0,Fully Remote,Sr. Software Development Engineer II,2022-07-18,Corporate,Engineering - Brand 2,Hybrid,Principal Software Development Engineer,2021-07-26,Corporate,Engineering - Brand 2,2.07,3.05
+3022906,3021702,9.0,Fully Remote,Sr. Software Development Engineer II,2022-07-18,Corporate,Engineering - Brand 2,Hybrid,Sr. IT Support Administrator I,2022-05-02,Corporate,Enterprise Information Systems,2.07,2.28
+3042739,3027478,1273.0,Fully Remote,Sr. Principal Data Engineer,2024-01-16,Corporate,Engineering - Brand 2,Fully Remote,Product Manager,2022-09-12,Corporate,Engineering - Brand 2,0.58,1.92
+3042739,3038672,1101.0,Fully Remote,Sr. Principal Data Engineer,2024-01-16,Corporate,Engineering - Brand 2,Hybrid,Sr. Data Engineer I,2023-09-18,Corporate,Engineering - Brand 2,0.58,0.9
+3042739,3021660,801.0,Fully Remote,Sr. Principal Data Engineer,2024-01-16,Corporate,Engineering - Brand 2,Hybrid,"Sr. Director, eCommerce",2022-05-09,Corporate,Engineering - Brand 2,0.58,2.27
+3042739,3040598,345.0,Fully Remote,Sr. Principal Data Engineer,2024-01-16,Corporate,Engineering - Brand 2,Fully Remote,"VP, GM Brand 2",2023-10-04,Corporate,Leadership,0.58,0.86
+3042739,2000800,99.0,Fully Remote,Sr. Principal Data Engineer,2024-01-16,Corporate,Engineering - Brand 2,Hybrid,Sr. Program Manager I,2020-06-29,Operations,Program Management,0.58,4.13
+3042739,2001983,74.0,Fully Remote,Sr. Principal Data Engineer,2024-01-16,Corporate,Engineering - Brand 2,Hybrid,"Manager, Performance Analytics",2015-11-23,Corporate,Supply Chain,0.58,8.73
+3042739,3019452,67.0,Fully Remote,Sr. Principal Data Engineer,2024-01-16,Corporate,Engineering - Brand 2,Hybrid,Data Warehouse Analyst I,2022-01-31,Corporate,Supply Chain,0.58,2.53
+3042739,2016244,65.0,Fully Remote,Sr. Principal Data Engineer,2024-01-16,Corporate,Engineering - Brand 2,Hybrid,"Director, Data Engineering",2018-10-15,Corporate,Enterprise Information Systems,0.58,5.83
+2002252,2002956,517.0,Hybrid,Customer Service Representative 3,2017-07-25,Brand 2,Customer Service - Brand 2,Hybrid,"Manager, Customer Service",2017-05-15,Brand 2,Customer Service - Brand 2,7.06,7.25
+2002252,2001171,144.0,Hybrid,Customer Service Representative 3,2017-07-25,Brand 2,Customer Service - Brand 2,Site Critical,"Spvsr, Lab Process II",2010-05-24,Operations,Manufacturing-Brand 1,7.06,14.23
+2002252,2002271,138.0,Hybrid,Customer Service Representative 3,2017-07-25,Brand 2,Customer Service - Brand 2,Site Critical,Order Expediter 4,2017-04-10,Operations,Manufacturing-Brand 1,7.06,7.35
+2002937,2002605,123.0,Hybrid,Sr. Software Development Engineer I,2016-06-23,Corporate,Engineering - Brand 2,Hybrid,Product Manager,2016-03-02,Corporate,Engineering - Brand 2,8.15,8.45
+2002937,3021660,87.0,Hybrid,Sr. Software Development Engineer I,2016-06-23,Corporate,Engineering - Brand 2,Hybrid,"Sr. Director, eCommerce",2022-05-09,Corporate,Engineering - Brand 2,8.15,2.27
+2002937,3031524,84.0,Hybrid,Sr. Software Development Engineer I,2016-06-23,Corporate,Engineering - Brand 2,Fully Remote,"Director, Engineering",2022-11-28,Corporate,Engineering - Brand 2,8.15,1.71
+2002937,3043896,29.0,Hybrid,Sr. Software Development Engineer I,2016-06-23,Corporate,Engineering - Brand 2,Fully Remote,"Sr. Manager, Engineering",2024-04-01,Brand 2,Engineering - Brand 2,8.15,0.37
+2002937,2003206,27.0,Hybrid,Sr. Software Development Engineer I,2016-06-23,Corporate,Engineering - Brand 2,Hybrid,Sr. Growth Marketing Specialist I,2017-03-06,Corporate,Marketing,8.15,7.44
+2002937,2002909,27.0,Hybrid,Sr. Software Development Engineer I,2016-06-23,Corporate,Engineering - Brand 2,Hybrid,Sr. Principal Designer - UX Design,2015-11-18,Corporate,Engineering - Brand 2,8.15,8.74
+2002937,2003116,19.0,Hybrid,Sr. Software Development Engineer I,2016-06-23,Corporate,Engineering - Brand 2,Hybrid,"Manager, Growth Marketing",2021-07-19,Corporate,Marketing,8.15,3.07
+2002909,3029814,621.0,Hybrid,Sr. Principal Designer - UX Design,2015-11-18,Corporate,Engineering - Brand 2,Fully Remote,"Director, UX Design",2022-10-31,Corporate,Engineering - Brand 2,8.74,1.79
+2002909,3021660,580.0,Hybrid,Sr. Principal Designer - UX Design,2015-11-18,Corporate,Engineering - Brand 2,Hybrid,"Sr. Director, eCommerce",2022-05-09,Corporate,Engineering - Brand 2,8.74,2.27
+2002909,2003018,286.0,Hybrid,Sr. Principal Designer - UX Design,2015-11-18,Corporate,Engineering - Brand 2,Hybrid,"Sr. Manager, Merchandising",2015-03-04,Brand 2,Product Merchandising - Brand 2,8.74,9.45
+2002909,2003155,267.0,Hybrid,Sr. Principal Designer - UX Design,2015-11-18,Corporate,Engineering - Brand 2,Hybrid,"Director, Business Line",2018-11-05,Brand 2,Product Merchandising - Brand 2,8.74,5.78
+2002909,2002605,248.0,Hybrid,Sr. Principal Designer - UX Design,2015-11-18,Corporate,Engineering - Brand 2,Hybrid,Product Manager,2016-03-02,Corporate,Engineering - Brand 2,8.74,8.45
+2002909,2003186,236.0,Hybrid,Sr. Principal Designer - UX Design,2015-11-18,Corporate,Engineering - Brand 2,Hybrid,Product Specialist II,2014-03-26,Corporate,Engineering - Brand 2,8.74,10.39
+2002909,3031524,159.0,Hybrid,Sr. Principal Designer - UX Design,2015-11-18,Corporate,Engineering - Brand 2,Fully Remote,"Director, Engineering",2022-11-28,Corporate,Engineering - Brand 2,8.74,1.71
+2002909,3033332,113.0,Hybrid,Sr. Principal Designer - UX Design,2015-11-18,Corporate,Engineering - Brand 2,Hybrid,Site Optimization Manager,2023-04-17,Corporate,Marketing,8.74,1.33
+2002909,3027665,113.0,Hybrid,Sr. Principal Designer - UX Design,2015-11-18,Corporate,Engineering - Brand 2,Hybrid,"Sr. Director, Optimization",2022-09-19,Corporate,Marketing,8.74,1.9
+3030680,3033436,9.0,Hybrid,Sr. Software Development Engineer II,2022-11-28,Corporate,Engineering - Brand 2,Hybrid,HR Generalist II,2023-04-17,Corporate,Human Resources,1.71,1.33
+3030680,3031524,9.0,Hybrid,Sr. Software Development Engineer II,2022-11-28,Corporate,Engineering - Brand 2,Fully Remote,"Director, Engineering",2022-11-28,Corporate,Engineering - Brand 2,1.71,1.71
+3030680,3004803,9.0,Hybrid,Sr. Software Development Engineer II,2022-11-28,Corporate,Engineering - Brand 2,Hybrid,"Sr. Director, Human Resources",2020-10-26,Corporate,Human Resources,1.71,3.8
+3030680,3028421,9.0,Hybrid,Sr. Software Development Engineer II,2022-11-28,Corporate,Engineering - Brand 2,Site Critical,Office Administrator 2,2022-09-26,Operations,Environmental Health & Safety,1.71,1.88
+2003018,2003155,1497.0,Hybrid,"Sr. Manager, Merchandising",2015-03-04,Brand 2,Product Merchandising - Brand 2,Hybrid,"Director, Business Line",2018-11-05,Brand 2,Product Merchandising - Brand 2,9.45,5.78
+2003018,3007231,1317.0,Hybrid,"Sr. Manager, Merchandising",2015-03-04,Brand 2,Product Merchandising - Brand 2,Hybrid,Merchandising Specialist I,2021-03-15,Brand 2,Product Merchandising - Brand 2,9.45,3.42
+2003018,2003209,1239.0,Hybrid,"Sr. Manager, Merchandising",2015-03-04,Brand 2,Product Merchandising - Brand 2,Hybrid,"Manager, Merchandising",2015-11-02,Brand 2,Product Merchandising - Brand 2,9.45,8.79
+2003018,2003133,1007.0,Hybrid,"Sr. Manager, Merchandising",2015-03-04,Brand 2,Product Merchandising - Brand 2,Hybrid,"Sr. Manager, Brand Marketing",2012-06-18,Brand 2,Marketing - Brand 2,9.45,12.16
+2003018,2003036,699.0,Hybrid,"Sr. Manager, Merchandising",2015-03-04,Brand 2,Product Merchandising - Brand 2,Hybrid,"Director, Sales",2021-02-15,Brand 2,Sales - Brand 2,9.45,3.49
+2003018,3042755,656.0,Hybrid,"Sr. Manager, Merchandising",2015-03-04,Brand 2,Product Merchandising - Brand 2,Fully Remote,"Manager, CRM",2024-01-08,Brand 2,Marketing - Brand 2,9.45,0.6
+2003018,2002605,621.0,Hybrid,"Sr. Manager, Merchandising",2015-03-04,Brand 2,Product Merchandising - Brand 2,Hybrid,Product Manager,2016-03-02,Corporate,Engineering - Brand 2,9.45,8.45
+2003018,3029814,566.0,Hybrid,"Sr. Manager, Merchandising",2015-03-04,Brand 2,Product Merchandising - Brand 2,Fully Remote,"Director, UX Design",2022-10-31,Corporate,Engineering - Brand 2,9.45,1.79
+2003018,3042370,467.0,Hybrid,"Sr. Manager, Merchandising",2015-03-04,Brand 2,Product Merchandising - Brand 2,Fully Remote,"Director, Growth - Brand 2",2023-11-27,Brand 2,Marketing - Brand 2,9.45,0.71
+2003122,2003133,462.0,Hybrid,Graphic Designer II,2020-12-14,Brand 2,Marketing - Brand 2,Hybrid,"Sr. Manager, Brand Marketing",2012-06-18,Brand 2,Marketing - Brand 2,3.67,12.16
+2003122,2003148,290.0,Hybrid,Graphic Designer II,2020-12-14,Brand 2,Marketing - Brand 2,Hybrid,"Sr. Director, Marketing",2015-11-16,Brand 2,Marketing - Brand 2,3.67,8.75
+2003122,2002934,190.0,Hybrid,Graphic Designer II,2020-12-14,Brand 2,Marketing - Brand 2,Hybrid,Sr. Marketing Specialist II,2013-10-16,Brand 2,Marketing - Brand 2,3.67,10.83
+2003122,2003018,162.0,Hybrid,Graphic Designer II,2020-12-14,Brand 2,Marketing - Brand 2,Hybrid,"Sr. Manager, Merchandising",2015-03-04,Brand 2,Product Merchandising - Brand 2,3.67,9.45
+2003122,3007231,95.0,Hybrid,Graphic Designer II,2020-12-14,Brand 2,Marketing - Brand 2,Hybrid,Merchandising Specialist I,2021-03-15,Brand 2,Product Merchandising - Brand 2,3.67,3.42
+2003122,3042755,66.0,Hybrid,Graphic Designer II,2020-12-14,Brand 2,Marketing - Brand 2,Fully Remote,"Manager, CRM",2024-01-08,Brand 2,Marketing - Brand 2,3.67,0.6
+3004874,3022491,789.0,Fully Remote,Customer Service Representative 3,2022-09-12,Brand 2,Customer Service - Brand 2,Site Critical,Lead Account Specialist - School,2022-06-21,Brand 3,Field-Schools,1.92,2.15
+3004874,3035716,777.0,Fully Remote,Customer Service Representative 3,2022-09-12,Brand 2,Customer Service - Brand 2,Site Critical,Account Specialist - School,2023-07-27,Brand 3,Field-Schools,1.92,1.05
+3004874,2012633,260.0,Fully Remote,Customer Service Representative 3,2022-09-12,Brand 2,Customer Service - Brand 2,Site Critical,Account Specialist - School,2017-03-13,Brand 3,Field-Schools,1.92,7.42
+3004874,3010069,132.0,Fully Remote,Customer Service Representative 3,2022-09-12,Brand 2,Customer Service - Brand 2,Fully Remote,Inside Sales Representative - Preschool,2021-07-26,Brand 3,Sales-Brand 3,1.92,3.05
+3004874,3021784,83.0,Fully Remote,Customer Service Representative 3,2022-09-12,Brand 2,Customer Service - Brand 2,Fully Remote,Customer Service Representative 3,2022-05-09,Brand 2,Customer Service - Brand 2,1.92,2.27
+3004874,2002895,73.0,Fully Remote,Customer Service Representative 3,2022-09-12,Brand 2,Customer Service - Brand 2,Hybrid,"Spvsr, Customer Service I",2015-03-30,Brand 2,Customer Service - Brand 2,1.92,9.38
+3029349,2002271,303.0,Fully Remote,Customer Service Representative 4,2022-10-10,Brand 2,Customer Service - Brand 2,Site Critical,Order Expediter 4,2017-04-10,Operations,Manufacturing-Brand 1,1.84,7.35
+3029349,2003173,171.0,Fully Remote,Customer Service Representative 4,2022-10-10,Brand 2,Customer Service - Brand 2,Hybrid,"Sr. Manager, Customer Service",2014-03-24,Brand 2,Customer Service - Brand 2,1.84,10.4
+3029349,2003137,151.0,Fully Remote,Customer Service Representative 4,2022-10-10,Brand 2,Customer Service - Brand 2,Hybrid,"Spvsr, Customer Service I",2013-03-04,Brand 2,Customer Service - Brand 2,1.84,11.45
+3029349,2003156,46.0,Fully Remote,Customer Service Representative 4,2022-10-10,Brand 2,Customer Service - Brand 2,Hybrid,"Manager, Customer Service",2015-03-09,Brand 2,Customer Service - Brand 2,1.84,9.44
+3038672,3027478,1504.0,Hybrid,Sr. Data Engineer I,2023-09-18,Corporate,Engineering - Brand 2,Fully Remote,Product Manager,2022-09-12,Corporate,Engineering - Brand 2,0.9,1.92
+3038672,3042739,1173.0,Hybrid,Sr. Data Engineer I,2023-09-18,Corporate,Engineering - Brand 2,Fully Remote,Sr. Principal Data Engineer,2024-01-16,Corporate,Engineering - Brand 2,0.9,0.58
+3038672,3021660,637.0,Hybrid,Sr. Data Engineer I,2023-09-18,Corporate,Engineering - Brand 2,Hybrid,"Sr. Director, eCommerce",2022-05-09,Corporate,Engineering - Brand 2,0.9,2.27
+3038672,3040598,340.0,Hybrid,Sr. Data Engineer I,2023-09-18,Corporate,Engineering - Brand 2,Fully Remote,"VP, GM Brand 2",2023-10-04,Corporate,Leadership,0.9,0.86
+3038672,3031524,173.0,Hybrid,Sr. Data Engineer I,2023-09-18,Corporate,Engineering - Brand 2,Fully Remote,"Director, Engineering",2022-11-28,Corporate,Engineering - Brand 2,0.9,1.71
+3038672,2002394,143.0,Hybrid,Sr. Data Engineer I,2023-09-18,Corporate,Engineering - Brand 2,Hybrid,"Manager, Product Management",2015-03-13,Corporate,Engineering - Brand 2,0.9,9.43
+2002620,2003133,349.0,Hybrid,Sr. Graphic Designer I,2019-11-11,Brand 2,Marketing - Brand 2,Hybrid,"Sr. Manager, Brand Marketing",2012-06-18,Brand 2,Marketing - Brand 2,4.76,12.16
+2002620,2003148,205.0,Hybrid,Sr. Graphic Designer I,2019-11-11,Brand 2,Marketing - Brand 2,Hybrid,"Sr. Director, Marketing",2015-11-16,Brand 2,Marketing - Brand 2,4.76,8.75
+2002620,3022260,97.0,Hybrid,Sr. Graphic Designer I,2019-11-11,Brand 2,Marketing - Brand 2,Hybrid,Graphic Designer I,2022-06-20,Brand 2,Marketing - Brand 2,4.76,2.15
+2002620,2002934,80.0,Hybrid,Sr. Graphic Designer I,2019-11-11,Brand 2,Marketing - Brand 2,Hybrid,Sr. Marketing Specialist II,2013-10-16,Brand 2,Marketing - Brand 2,4.76,10.83
+2002620,2003209,52.0,Hybrid,Sr. Graphic Designer I,2019-11-11,Brand 2,Marketing - Brand 2,Hybrid,"Manager, Merchandising",2015-11-02,Brand 2,Product Merchandising - Brand 2,4.76,8.79
+2002620,3042755,48.0,Hybrid,Sr. Graphic Designer I,2019-11-11,Brand 2,Marketing - Brand 2,Fully Remote,"Manager, CRM",2024-01-08,Brand 2,Marketing - Brand 2,4.76,0.6
+2002620,2003018,26.0,Hybrid,Sr. Graphic Designer I,2019-11-11,Brand 2,Marketing - Brand 2,Hybrid,"Sr. Manager, Merchandising",2015-03-04,Brand 2,Product Merchandising - Brand 2,4.76,9.45
+2002620,2003174,24.0,Hybrid,Sr. Graphic Designer I,2019-11-11,Brand 2,Marketing - Brand 2,Hybrid,Buyer II,2018-04-05,Corporate,Supply Chain,4.76,6.36
+2002893,2003156,868.0,Hybrid,Customer Service Representative 4,2012-11-26,Brand 2,Customer Service - Brand 2,Hybrid,"Manager, Customer Service",2015-03-09,Brand 2,Customer Service - Brand 2,11.72,9.44
+2002893,3018469,724.0,Hybrid,Customer Service Representative 4,2012-11-26,Brand 2,Customer Service - Brand 2,Hybrid,Corporate Attorney,2021-11-22,Corporate,Legal,11.72,2.73
+2002893,2003173,476.0,Hybrid,Customer Service Representative 4,2012-11-26,Brand 2,Customer Service - Brand 2,Hybrid,"Sr. Manager, Customer Service",2014-03-24,Brand 2,Customer Service - Brand 2,11.72,10.4
+2002893,3019186,465.0,Hybrid,Customer Service Representative 4,2012-11-26,Brand 2,Customer Service - Brand 2,Hybrid,"Director, Legal",2022-01-18,Corporate,Legal,11.72,2.57
+2002893,3033311,174.0,Hybrid,Customer Service Representative 4,2012-11-26,Brand 2,Customer Service - Brand 2,Fully Remote,Principal Corporate Attorney,2023-04-03,Corporate,Legal,11.72,1.36
+2002893,3029869,48.0,Hybrid,Customer Service Representative 4,2012-11-26,Brand 2,Customer Service - Brand 2,Hybrid,Workforce Analyst I,2013-03-05,Brand 2,Customer Service - Brand 2,11.72,11.45
+2002893,3021660,37.0,Hybrid,Customer Service Representative 4,2012-11-26,Brand 2,Customer Service - Brand 2,Hybrid,"Sr. Director, eCommerce",2022-05-09,Corporate,Engineering - Brand 2,11.72,2.27
+3043896,3031524,58.0,Fully Remote,"Sr. Manager, Engineering",2024-04-01,Brand 2,Engineering - Brand 2,Fully Remote,"Director, Engineering",2022-11-28,Corporate,Engineering - Brand 2,0.37,1.71
+3043896,2002937,58.0,Fully Remote,"Sr. Manager, Engineering",2024-04-01,Brand 2,Engineering - Brand 2,Hybrid,Sr. Software Development Engineer I,2016-06-23,Corporate,Engineering - Brand 2,0.37,8.15
+3043896,3021660,38.0,Fully Remote,"Sr. Manager, Engineering",2024-04-01,Brand 2,Engineering - Brand 2,Hybrid,"Sr. Director, eCommerce",2022-05-09,Corporate,Engineering - Brand 2,0.37,2.27
+3043896,3044059,28.0,Fully Remote,"Sr. Manager, Engineering",2024-04-01,Brand 2,Engineering - Brand 2,Fully Remote,"Sr. Manager, Engineering",2024-04-22,Corporate,Engineering - Brand 2,0.37,0.31
+3043896,2003186,19.0,Fully Remote,"Sr. Manager, Engineering",2024-04-01,Brand 2,Engineering - Brand 2,Hybrid,Product Specialist II,2014-03-26,Corporate,Engineering - Brand 2,0.37,10.39
+3043896,2002605,19.0,Fully Remote,"Sr. Manager, Engineering",2024-04-01,Brand 2,Engineering - Brand 2,Hybrid,Product Manager,2016-03-02,Corporate,Engineering - Brand 2,0.37,8.45
+3031823,2002862,117.0,Fully Remote,Customer Service Representative 3,2022-12-19,Brand 2,Customer Service - Brand 2,Site Critical,Lead Machine Operator 5,2019-04-29,Operations,Manufacturing-Brand 1,1.65,5.3
+3031823,2002895,48.0,Fully Remote,Customer Service Representative 3,2022-12-19,Brand 2,Customer Service - Brand 2,Hybrid,"Spvsr, Customer Service I",2015-03-30,Brand 2,Customer Service - Brand 2,1.65,9.38
+3031823,3042755,39.0,Fully Remote,Customer Service Representative 3,2022-12-19,Brand 2,Customer Service - Brand 2,Fully Remote,"Manager, CRM",2024-01-08,Brand 2,Marketing - Brand 2,1.65,0.6
+3031823,2001761,28.0,Fully Remote,Customer Service Representative 3,2022-12-19,Brand 2,Customer Service - Brand 2,Hybrid,Partner Fulfillment Manager I,2015-04-27,Operations,Manufacturing-Brand 1,1.65,9.3
+2002955,3031524,19.0,Hybrid,Sr. Software Development Engineer I,2014-03-12,Corporate,Engineering - Brand 2,Fully Remote,"Director, Engineering",2022-11-28,Corporate,Engineering - Brand 2,10.43,1.71
+2002955,2003144,9.0,Hybrid,Sr. Software Development Engineer I,2014-03-12,Corporate,Engineering - Brand 2,Hybrid,Principal Software Development Engineer,2014-06-23,Corporate,Engineering - Brand 2,10.43,10.15
+2002955,2003064,9.0,Hybrid,Sr. Software Development Engineer I,2014-03-12,Corporate,Engineering - Brand 2,Hybrid,Sr. Software Development Engineer I,2015-10-28,Corporate,Engineering - Brand 2,10.43,8.8
+3043340,3021660,39.0,Fully Remote,Software Development Engineer II,2024-02-20,Corporate,Engineering - Brand 2,Hybrid,"Sr. Director, eCommerce",2022-05-09,Corporate,Engineering - Brand 2,0.48,2.27
+3043340,3031524,39.0,Fully Remote,Software Development Engineer II,2024-02-20,Corporate,Engineering - Brand 2,Fully Remote,"Director, Engineering",2022-11-28,Corporate,Engineering - Brand 2,0.48,1.71
+3043340,2001659,1.0,Fully Remote,Software Development Engineer II,2024-02-20,Corporate,Engineering - Brand 2,Hybrid,"Sr. Director, Platform Architecture",2014-09-15,Corporate,Technology,0.48,9.92
+3030001,3020739,57.0,Fully Remote,Customer Service Representative 3,2022-10-24,Brand 2,Customer Service - Brand 2,Fully Remote,"Manager, Product Sourcing",2022-03-28,Brand 2,Product Merchandising - Brand 2,1.81,2.38
+3030001,3042755,39.0,Fully Remote,Customer Service Representative 3,2022-10-24,Brand 2,Customer Service - Brand 2,Fully Remote,"Manager, CRM",2024-01-08,Brand 2,Marketing - Brand 2,1.81,0.6
+3030001,2003156,19.0,Fully Remote,Customer Service Representative 3,2022-10-24,Brand 2,Customer Service - Brand 2,Hybrid,"Manager, Customer Service",2015-03-09,Brand 2,Customer Service - Brand 2,1.81,9.44
+3030001,2002271,18.0,Fully Remote,Customer Service Representative 3,2022-10-24,Brand 2,Customer Service - Brand 2,Site Critical,Order Expediter 4,2017-04-10,Operations,Manufacturing-Brand 1,1.81,7.35
+3030001,2002862,18.0,Fully Remote,Customer Service Representative 3,2022-10-24,Brand 2,Customer Service - Brand 2,Site Critical,Lead Machine Operator 5,2019-04-29,Operations,Manufacturing-Brand 1,1.81,5.3
+3030001,3043751,10.0,Fully Remote,Customer Service Representative 3,2022-10-24,Brand 2,Customer Service - Brand 2,Hybrid,Merchandising Specialist II,2024-03-18,Brand 2,Product Merchandising - Brand 2,1.81,0.41
+2003115,3044041,47.0,Hybrid,Social Media Specialist I,2021-03-01,Brand 2,Marketing - Brand 2,Hybrid,Sr. Social Media Specialist II,2024-04-08,Brand 2,Marketing - Brand 2,3.45,0.35
+2003115,2004510,18.0,Hybrid,Social Media Specialist I,2021-03-01,Brand 2,Marketing - Brand 2,Site Critical,Office Administrator 2,2019-09-16,Operations,Manufacturing-Brand 1,3.45,4.91
+2002838,3021660,568.0,Hybrid,Principal Software Development Engineer,2021-07-26,Corporate,Engineering - Brand 2,Hybrid,"Sr. Director, eCommerce",2022-05-09,Corporate,Engineering - Brand 2,3.05,2.27
+2002838,3031524,479.0,Hybrid,Principal Software Development Engineer,2021-07-26,Corporate,Engineering - Brand 2,Fully Remote,"Director, Engineering",2022-11-28,Corporate,Engineering - Brand 2,3.05,1.71
+2002838,2004543,254.0,Hybrid,Principal Software Development Engineer,2021-07-26,Corporate,Engineering - Brand 2,Hybrid,"Director, Network Systems",2019-10-07,Corporate,Technology,3.05,4.85
+2002838,3030382,227.0,Hybrid,Principal Software Development Engineer,2021-07-26,Corporate,Engineering - Brand 2,Fully Remote,Principal Software Development Engineer,2022-11-14,Corporate,Engineering - Brand 2,3.05,1.75
+2002838,3042739,117.0,Hybrid,Principal Software Development Engineer,2021-07-26,Corporate,Engineering - Brand 2,Fully Remote,Sr. Principal Data Engineer,2024-01-16,Corporate,Engineering - Brand 2,3.05,0.58
+2002838,2003217,88.0,Hybrid,Principal Software Development Engineer,2021-07-26,Corporate,Engineering - Brand 2,Hybrid,Principal Software Development Engineer,2019-02-21,Corporate,Engineering - Brand 2,3.05,5.48
+2002838,2001135,73.0,Hybrid,Principal Software Development Engineer,2021-07-26,Corporate,Engineering - Brand 2,Hybrid,"Manager, Systems Engineering",2009-08-26,Corporate,Technology,3.05,14.98
+2002838,2001173,38.0,Hybrid,Principal Software Development Engineer,2021-07-26,Corporate,Engineering - Brand 2,Hybrid,Principal Software Architect,2010-06-14,Corporate,Technology,3.05,14.18
+2003112,3025972,6535.0,Hybrid,Sr. Account Service Manager I,2021-05-10,Brand 2,Sales - Brand 2,Fully Remote,Sr. Account Service Manager I,2022-08-22,Brand 2,Sales - Brand 2,3.26,1.98
+2003112,2003036,5020.0,Hybrid,Sr. Account Service Manager I,2021-05-10,Brand 2,Sales - Brand 2,Hybrid,"Director, Sales",2021-02-15,Brand 2,Sales - Brand 2,3.26,3.49
+2003112,2001289,1029.0,Hybrid,Sr. Account Service Manager I,2021-05-10,Brand 2,Sales - Brand 2,Hybrid,Client Services Specialist II,2012-03-15,Operations,Manufacturing-Brand 1,3.26,12.42
+2003112,2002271,370.0,Hybrid,Sr. Account Service Manager I,2021-05-10,Brand 2,Sales - Brand 2,Site Critical,Order Expediter 4,2017-04-10,Operations,Manufacturing-Brand 1,3.26,7.35
+2003112,2002862,165.0,Hybrid,Sr. Account Service Manager I,2021-05-10,Brand 2,Sales - Brand 2,Site Critical,Lead Machine Operator 5,2019-04-29,Operations,Manufacturing-Brand 1,3.26,5.3
+2003175,3021660,220.0,Hybrid,"Sr. Manager, Engineering",2016-01-26,Corporate,Engineering - Brand 2,Hybrid,"Sr. Director, eCommerce",2022-05-09,Corporate,Engineering - Brand 2,8.55,2.27
+2003175,2002394,83.0,Hybrid,"Sr. Manager, Engineering",2016-01-26,Corporate,Engineering - Brand 2,Hybrid,"Manager, Product Management",2015-03-13,Corporate,Engineering - Brand 2,8.55,9.43
+2003175,3031524,68.0,Hybrid,"Sr. Manager, Engineering",2016-01-26,Corporate,Engineering - Brand 2,Fully Remote,"Director, Engineering",2022-11-28,Corporate,Engineering - Brand 2,8.55,1.71
+2003175,3027478,57.0,Hybrid,"Sr. Manager, Engineering",2016-01-26,Corporate,Engineering - Brand 2,Fully Remote,Product Manager,2022-09-12,Corporate,Engineering - Brand 2,8.55,1.92
+2003175,2003144,56.0,Hybrid,"Sr. Manager, Engineering",2016-01-26,Corporate,Engineering - Brand 2,Hybrid,Principal Software Development Engineer,2014-06-23,Corporate,Engineering - Brand 2,8.55,10.15
+2003175,2003064,56.0,Hybrid,"Sr. Manager, Engineering",2016-01-26,Corporate,Engineering - Brand 2,Hybrid,Sr. Software Development Engineer I,2015-10-28,Corporate,Engineering - Brand 2,8.55,8.8
+3031524,3021660,1480.0,Fully Remote,"Director, Engineering",2022-11-28,Corporate,Engineering - Brand 2,Hybrid,"Sr. Director, eCommerce",2022-05-09,Corporate,Engineering - Brand 2,1.71,2.27
+3031524,3043957,177.0,Fully Remote,"Director, Engineering",2022-11-28,Corporate,Engineering - Brand 2,Fully Remote,"SVP, Chief Product and Technology Officer",2024-03-25,Corporate,Leadership,1.71,0.39
+3031524,3044059,163.0,Fully Remote,"Director, Engineering",2022-11-28,Corporate,Engineering - Brand 2,Fully Remote,"Sr. Manager, Engineering",2024-04-22,Corporate,Engineering - Brand 2,1.71,0.31
+3031524,3033436,143.0,Fully Remote,"Director, Engineering",2022-11-28,Corporate,Engineering - Brand 2,Hybrid,HR Generalist II,2023-04-17,Corporate,Human Resources,1.71,1.33
+2003154,3021660,430.0,Hybrid,Sr. Art Director II,2018-04-30,Corporate,Engineering - Brand 2,Hybrid,"Sr. Director, eCommerce",2022-05-09,Corporate,Engineering - Brand 2,6.29,2.27
+2003154,3008329,390.0,Hybrid,Sr. Art Director II,2018-04-30,Corporate,Engineering - Brand 2,Fully Remote,Sr. Content Development Specialist II,2021-06-01,Brand 1 Consumer,Consumer,6.29,3.2
+2003154,2000509,127.0,Hybrid,Sr. Art Director II,2018-04-30,Corporate,Engineering - Brand 2,Fully Remote,Principal Software Engineer,2017-03-01,Corporate,Technology,6.29,7.46
+2003154,2002559,82.0,Hybrid,Sr. Art Director II,2018-04-30,Corporate,Engineering - Brand 2,Hybrid,Principal Software Engineer,2018-04-22,Corporate,Technology,6.29,6.32
+3033414,2003155,2705.0,Fully Remote,Sr. Merchandising Specialist I,2023-04-10,Brand 2,Product Merchandising - Brand 2,Hybrid,"Director, Business Line",2018-11-05,Brand 2,Product Merchandising - Brand 2,1.35,5.78
+3033414,3040598,1357.0,Fully Remote,Sr. Merchandising Specialist I,2023-04-10,Brand 2,Product Merchandising - Brand 2,Fully Remote,"VP, GM Brand 2",2023-10-04,Corporate,Leadership,1.35,0.86
+3033414,2003209,949.0,Fully Remote,Sr. Merchandising Specialist I,2023-04-10,Brand 2,Product Merchandising - Brand 2,Hybrid,"Manager, Merchandising",2015-11-02,Brand 2,Product Merchandising - Brand 2,1.35,8.79
+3033414,3042370,636.0,Fully Remote,Sr. Merchandising Specialist I,2023-04-10,Brand 2,Product Merchandising - Brand 2,Fully Remote,"Director, Growth - Brand 2",2023-11-27,Brand 2,Marketing - Brand 2,1.35,0.71
+3033414,2003148,517.0,Fully Remote,Sr. Merchandising Specialist I,2023-04-10,Brand 2,Product Merchandising - Brand 2,Hybrid,"Sr. Director, Marketing",2015-11-16,Brand 2,Marketing - Brand 2,1.35,8.75
+3033414,3020739,516.0,Fully Remote,Sr. Merchandising Specialist I,2023-04-10,Brand 2,Product Merchandising - Brand 2,Fully Remote,"Manager, Product Sourcing",2022-03-28,Brand 2,Product Merchandising - Brand 2,1.35,2.38
+3033414,2003018,479.0,Fully Remote,Sr. Merchandising Specialist I,2023-04-10,Brand 2,Product Merchandising - Brand 2,Hybrid,"Sr. Manager, Merchandising",2015-03-04,Brand 2,Product Merchandising - Brand 2,1.35,9.45
+3033414,3043751,423.0,Fully Remote,Sr. Merchandising Specialist I,2023-04-10,Brand 2,Product Merchandising - Brand 2,Hybrid,Merchandising Specialist II,2024-03-18,Brand 2,Product Merchandising - Brand 2,1.35,0.41
+3033414,2003133,331.0,Fully Remote,Sr. Merchandising Specialist I,2023-04-10,Brand 2,Product Merchandising - Brand 2,Hybrid,"Sr. Manager, Brand Marketing",2012-06-18,Brand 2,Marketing - Brand 2,1.35,12.16
+2003199,2003173,3447.0,Hybrid,Customer Service Representative 4,2021-03-01,Brand 2,Customer Service - Brand 2,Hybrid,"Sr. Manager, Customer Service",2014-03-24,Brand 2,Customer Service - Brand 2,3.45,10.4
+2003199,2002724,3364.0,Hybrid,Customer Service Representative 4,2021-03-01,Brand 2,Customer Service - Brand 2,Hybrid,Lead Customer Service Representative 5,2020-06-16,Brand 2,Customer Service - Brand 2,3.45,4.16
+2003199,2002895,3364.0,Hybrid,Customer Service Representative 4,2021-03-01,Brand 2,Customer Service - Brand 2,Hybrid,"Spvsr, Customer Service I",2015-03-30,Brand 2,Customer Service - Brand 2,3.45,9.38
+2003199,2002956,273.0,Hybrid,Customer Service Representative 4,2021-03-01,Brand 2,Customer Service - Brand 2,Hybrid,"Manager, Customer Service",2017-05-15,Brand 2,Customer Service - Brand 2,3.45,7.25
+2003199,2002271,75.0,Hybrid,Customer Service Representative 4,2021-03-01,Brand 2,Customer Service - Brand 2,Site Critical,Order Expediter 4,2017-04-10,Operations,Manufacturing-Brand 1,3.45,7.35
+2003199,2003000,29.0,Hybrid,Customer Service Representative 4,2021-03-01,Brand 2,Customer Service - Brand 2,Fully Remote,Sr. Product Specialist I,2013-02-11,Corporate,Engineering - Brand 2,3.45,11.51
+3044041,2003148,239.0,Hybrid,Sr. Social Media Specialist II,2024-04-08,Brand 2,Marketing - Brand 2,Hybrid,"Sr. Director, Marketing",2015-11-16,Brand 2,Marketing - Brand 2,0.35,8.75
+3044041,2003018,182.0,Hybrid,Sr. Social Media Specialist II,2024-04-08,Brand 2,Marketing - Brand 2,Hybrid,"Sr. Manager, Merchandising",2015-03-04,Brand 2,Product Merchandising - Brand 2,0.35,9.45
+3044041,2003115,165.0,Hybrid,Sr. Social Media Specialist II,2024-04-08,Brand 2,Marketing - Brand 2,Hybrid,Social Media Specialist I,2021-03-01,Brand 2,Marketing - Brand 2,0.35,3.45
+3044041,2003133,114.0,Hybrid,Sr. Social Media Specialist II,2024-04-08,Brand 2,Marketing - Brand 2,Hybrid,"Sr. Manager, Brand Marketing",2012-06-18,Brand 2,Marketing - Brand 2,0.35,12.16
+3044041,3042370,94.0,Hybrid,Sr. Social Media Specialist II,2024-04-08,Brand 2,Marketing - Brand 2,Fully Remote,"Director, Growth - Brand 2",2023-11-27,Brand 2,Marketing - Brand 2,0.35,0.71
+3044041,2002643,76.0,Hybrid,Sr. Social Media Specialist II,2024-04-08,Brand 2,Marketing - Brand 2,Hybrid,"Manager, Marketing",2021-05-03,Brand 2,Marketing - Brand 2,0.35,3.28
+3044041,2003036,58.0,Hybrid,Sr. Social Media Specialist II,2024-04-08,Brand 2,Marketing - Brand 2,Hybrid,"Director, Sales",2021-02-15,Brand 2,Sales - Brand 2,0.35,3.49
+3044041,3040598,57.0,Hybrid,Sr. Social Media Specialist II,2024-04-08,Brand 2,Marketing - Brand 2,Fully Remote,"VP, GM Brand 2",2023-10-04,Corporate,Leadership,0.35,0.86
+3044041,2002680,57.0,Hybrid,Sr. Social Media Specialist II,2024-04-08,Brand 2,Marketing - Brand 2,Hybrid,Collaborations Specialist I,2020-06-16,Brand 2,Marketing - Brand 2,0.35,4.16
+3029900,2002166,966.0,Fully Remote,"Sr. Manager, Channel Marketing",2022-11-14,Brand 2,Marketing - Brand 2,Hybrid,Partner Marketing Specialist I,2014-09-29,Brand 2,Marketing - Brand 2,1.75,9.88
+3029900,2003155,335.0,Fully Remote,"Sr. Manager, Channel Marketing",2022-11-14,Brand 2,Marketing - Brand 2,Hybrid,"Director, Business Line",2018-11-05,Brand 2,Product Merchandising - Brand 2,1.75,5.78
+3029900,3040598,216.0,Fully Remote,"Sr. Manager, Channel Marketing",2022-11-14,Brand 2,Marketing - Brand 2,Fully Remote,"VP, GM Brand 2",2023-10-04,Corporate,Leadership,1.75,0.86
+3029900,2002416,19.0,Fully Remote,"Sr. Manager, Channel Marketing",2022-11-14,Brand 2,Marketing - Brand 2,Hybrid,"Sr. Manager, Marketing",2017-09-19,Corporate,Marketing,1.75,6.9
+2002895,2003173,336.0,Hybrid,"Spvsr, Customer Service I",2015-03-30,Brand 2,Customer Service - Brand 2,Hybrid,"Sr. Manager, Customer Service",2014-03-24,Brand 2,Customer Service - Brand 2,9.38,10.4
+2002895,2002956,313.0,Hybrid,"Spvsr, Customer Service I",2015-03-30,Brand 2,Customer Service - Brand 2,Hybrid,"Manager, Customer Service",2017-05-15,Brand 2,Customer Service - Brand 2,9.38,7.25
+2002895,3019286,66.0,Hybrid,"Spvsr, Customer Service I",2015-03-30,Brand 2,Customer Service - Brand 2,Hybrid,Customer Service Representative 3,2022-01-24,Brand 2,Customer Service - Brand 2,9.38,2.55
+2002895,3029400,64.0,Hybrid,"Spvsr, Customer Service I",2015-03-30,Brand 2,Customer Service - Brand 2,Fully Remote,Customer Service Representative 3,2022-10-17,Brand 2,Customer Service - Brand 2,9.38,1.82
+2002895,3029869,56.0,Hybrid,"Spvsr, Customer Service I",2015-03-30,Brand 2,Customer Service - Brand 2,Hybrid,Workforce Analyst I,2013-03-05,Brand 2,Customer Service - Brand 2,9.38,11.45
+3029400,3042755,97.0,Fully Remote,Customer Service Representative 3,2022-10-17,Brand 2,Customer Service - Brand 2,Fully Remote,"Manager, CRM",2024-01-08,Brand 2,Marketing - Brand 2,1.82,0.6
+3029400,2002895,51.0,Fully Remote,Customer Service Representative 3,2022-10-17,Brand 2,Customer Service - Brand 2,Hybrid,"Spvsr, Customer Service I",2015-03-30,Brand 2,Customer Service - Brand 2,1.82,9.38
+3029400,2002956,17.0,Fully Remote,Customer Service Representative 3,2022-10-17,Brand 2,Customer Service - Brand 2,Hybrid,"Manager, Customer Service",2017-05-15,Brand 2,Customer Service - Brand 2,1.82,7.25
+2003157,2003173,1932.0,Hybrid,Customer Service Representative 4,2021-03-01,Brand 2,Customer Service - Brand 2,Hybrid,"Sr. Manager, Customer Service",2014-03-24,Brand 2,Customer Service - Brand 2,3.45,10.4
+2003157,2003137,1680.0,Hybrid,Customer Service Representative 4,2021-03-01,Brand 2,Customer Service - Brand 2,Hybrid,"Spvsr, Customer Service I",2013-03-04,Brand 2,Customer Service - Brand 2,3.45,11.45
+2003157,2003198,1570.0,Hybrid,Customer Service Representative 4,2021-03-01,Brand 2,Customer Service - Brand 2,Hybrid,Customer Service Representative 4,2019-08-21,Brand 2,Customer Service - Brand 2,3.45,4.98
+2003157,3029349,28.0,Hybrid,Customer Service Representative 4,2021-03-01,Brand 2,Customer Service - Brand 2,Fully Remote,Customer Service Representative 4,2022-10-10,Brand 2,Customer Service - Brand 2,3.45,1.84
+2003157,2002599,28.0,Hybrid,Customer Service Representative 4,2021-03-01,Brand 2,Customer Service - Brand 2,Site Critical,"Director, Quality",2018-06-04,Operations,Manufacturing-Brand 1,3.45,6.2
+2000237,2003154,228.0,Fully Remote,Art Director II,2020-01-27,Corporate,Engineering - Brand 2,Hybrid,Sr. Art Director II,2018-04-30,Corporate,Engineering - Brand 2,4.55,6.29
+2002724,2002271,325.0,Hybrid,Lead Customer Service Representative 5,2020-06-16,Brand 2,Customer Service - Brand 2,Site Critical,Order Expediter 4,2017-04-10,Operations,Manufacturing-Brand 1,4.16,7.35
+2002724,2002862,109.0,Hybrid,Lead Customer Service Representative 5,2020-06-16,Brand 2,Customer Service - Brand 2,Site Critical,Lead Machine Operator 5,2019-04-29,Operations,Manufacturing-Brand 1,4.16,5.3
+2002724,2001761,98.0,Hybrid,Lead Customer Service Representative 5,2020-06-16,Brand 2,Customer Service - Brand 2,Hybrid,Partner Fulfillment Manager I,2015-04-27,Operations,Manufacturing-Brand 1,4.16,9.3
+2002724,2004720,58.0,Hybrid,Lead Customer Service Representative 5,2020-06-16,Brand 2,Customer Service - Brand 2,Fully Remote,"Sr. Manager, Creative Design",2014-03-17,Brand 1 Consumer,Consumer,4.16,10.42
+2002724,2024007,39.0,Hybrid,Lead Customer Service Representative 5,2020-06-16,Brand 2,Customer Service - Brand 2,Hybrid,Sr. Talent Acquisition Partner I,2019-08-12,Corporate,Human Resources,4.16,5.01
+2002724,3006414,19.0,Hybrid,Lead Customer Service Representative 5,2020-06-16,Brand 2,Customer Service - Brand 2,Site Critical,Lead Machine Operator 5,2021-01-19,Operations,Manufacturing-Brand 1,4.16,3.57
+2003155,2003209,2753.0,Hybrid,"Director, Business Line",2018-11-05,Brand 2,Product Merchandising - Brand 2,Hybrid,"Manager, Merchandising",2015-11-02,Brand 2,Product Merchandising - Brand 2,5.78,8.79
+2003155,3040598,1845.0,Hybrid,"Director, Business Line",2018-11-05,Brand 2,Product Merchandising - Brand 2,Fully Remote,"VP, GM Brand 2",2023-10-04,Corporate,Leadership,5.78,0.86
+2003155,3020739,1749.0,Hybrid,"Director, Business Line",2018-11-05,Brand 2,Product Merchandising - Brand 2,Fully Remote,"Manager, Product Sourcing",2022-03-28,Brand 2,Product Merchandising - Brand 2,5.78,2.38
+2003155,3033414,1693.0,Hybrid,"Director, Business Line",2018-11-05,Brand 2,Product Merchandising - Brand 2,Fully Remote,Sr. Merchandising Specialist I,2023-04-10,Brand 2,Product Merchandising - Brand 2,5.78,1.35
+2003155,2003018,1309.0,Hybrid,"Director, Business Line",2018-11-05,Brand 2,Product Merchandising - Brand 2,Hybrid,"Sr. Manager, Merchandising",2015-03-04,Brand 2,Product Merchandising - Brand 2,5.78,9.45
+2003155,2003036,1090.0,Hybrid,"Director, Business Line",2018-11-05,Brand 2,Product Merchandising - Brand 2,Hybrid,"Director, Sales",2021-02-15,Brand 2,Sales - Brand 2,5.78,3.49
+2003155,3043751,870.0,Hybrid,"Director, Business Line",2018-11-05,Brand 2,Product Merchandising - Brand 2,Hybrid,Merchandising Specialist II,2024-03-18,Brand 2,Product Merchandising - Brand 2,5.78,0.41
+2003155,3042370,835.0,Hybrid,"Director, Business Line",2018-11-05,Brand 2,Product Merchandising - Brand 2,Fully Remote,"Director, Growth - Brand 2",2023-11-27,Brand 2,Marketing - Brand 2,5.78,0.71
+2003155,2002605,673.0,Hybrid,"Director, Business Line",2018-11-05,Brand 2,Product Merchandising - Brand 2,Hybrid,Product Manager,2016-03-02,Corporate,Engineering - Brand 2,5.78,8.45
+3025972,2003036,4049.0,Fully Remote,Sr. Account Service Manager I,2022-08-22,Brand 2,Sales - Brand 2,Hybrid,"Director, Sales",2021-02-15,Brand 2,Sales - Brand 2,1.98,3.49
+3025972,2003112,2117.0,Fully Remote,Sr. Account Service Manager I,2022-08-22,Brand 2,Sales - Brand 2,Hybrid,Sr. Account Service Manager I,2021-05-10,Brand 2,Sales - Brand 2,1.98,3.26
+3025972,2001171,202.0,Fully Remote,Sr. Account Service Manager I,2022-08-22,Brand 2,Sales - Brand 2,Site Critical,"Spvsr, Lab Process II",2010-05-24,Operations,Manufacturing-Brand 1,1.98,14.23
+3025972,2002271,178.0,Fully Remote,Sr. Account Service Manager I,2022-08-22,Brand 2,Sales - Brand 2,Site Critical,Order Expediter 4,2017-04-10,Operations,Manufacturing-Brand 1,1.98,7.35
+2002435,2002895,95.0,Fully Remote,Customer Service Representative 3,2020-09-03,Brand 2,Customer Service - Brand 2,Hybrid,"Spvsr, Customer Service I",2015-03-30,Brand 2,Customer Service - Brand 2,3.95,9.38
+2002435,2002956,67.0,Fully Remote,Customer Service Representative 3,2020-09-03,Brand 2,Customer Service - Brand 2,Hybrid,"Manager, Customer Service",2017-05-15,Brand 2,Customer Service - Brand 2,3.95,7.25
+2002435,2008189,38.0,Fully Remote,Customer Service Representative 3,2020-09-03,Brand 2,Customer Service - Brand 2,Hybrid,Partner Fulfillment Manager I,2008-06-23,Operations,Manufacturing-Brand 1,3.95,16.15
+2003193,2002210,155.0,Hybrid,"Spvsr, Customer Service I",2020-08-10,Brand 2,Customer Service - Brand 2,Hybrid,Customer Service Representative 4,2018-09-11,Brand 2,Customer Service - Brand 2,4.01,5.93
+2003193,2003173,112.0,Hybrid,"Spvsr, Customer Service I",2020-08-10,Brand 2,Customer Service - Brand 2,Hybrid,"Sr. Manager, Customer Service",2014-03-24,Brand 2,Customer Service - Brand 2,4.01,10.4
+2003193,2003180,111.0,Hybrid,"Spvsr, Customer Service I",2020-08-10,Brand 2,Customer Service - Brand 2,Hybrid,Customer Service Representative 4,2019-08-20,Brand 2,Customer Service - Brand 2,4.01,4.99
+2003193,2002936,80.0,Hybrid,"Spvsr, Customer Service I",2020-08-10,Brand 2,Customer Service - Brand 2,Hybrid,Customer Service Representative 4,2020-08-10,Brand 2,Customer Service - Brand 2,4.01,4.01
+2003193,2002166,69.0,Hybrid,"Spvsr, Customer Service I",2020-08-10,Brand 2,Customer Service - Brand 2,Hybrid,Partner Marketing Specialist I,2014-09-29,Brand 2,Marketing - Brand 2,4.01,9.88
+2003193,2008189,65.0,Hybrid,"Spvsr, Customer Service I",2020-08-10,Brand 2,Customer Service - Brand 2,Hybrid,Partner Fulfillment Manager I,2008-06-23,Operations,Manufacturing-Brand 1,4.01,16.15
+2003193,3028421,37.0,Hybrid,"Spvsr, Customer Service I",2020-08-10,Brand 2,Customer Service - Brand 2,Site Critical,Office Administrator 2,2022-09-26,Operations,Environmental Health & Safety,4.01,1.88
+2002934,2003133,1115.0,Hybrid,Sr. Marketing Specialist II,2013-10-16,Brand 2,Marketing - Brand 2,Hybrid,"Sr. Manager, Brand Marketing",2012-06-18,Brand 2,Marketing - Brand 2,10.83,12.16
+2002934,2003148,1028.0,Hybrid,Sr. Marketing Specialist II,2013-10-16,Brand 2,Marketing - Brand 2,Hybrid,"Sr. Director, Marketing",2015-11-16,Brand 2,Marketing - Brand 2,10.83,8.75
+2002934,2002643,534.0,Hybrid,Sr. Marketing Specialist II,2013-10-16,Brand 2,Marketing - Brand 2,Hybrid,"Manager, Marketing",2021-05-03,Brand 2,Marketing - Brand 2,10.83,3.28
+2002934,2003036,275.0,Hybrid,Sr. Marketing Specialist II,2013-10-16,Brand 2,Marketing - Brand 2,Hybrid,"Director, Sales",2021-02-15,Brand 2,Sales - Brand 2,10.83,3.49
+2002934,3044041,252.0,Hybrid,Sr. Marketing Specialist II,2013-10-16,Brand 2,Marketing - Brand 2,Hybrid,Sr. Social Media Specialist II,2024-04-08,Brand 2,Marketing - Brand 2,10.83,0.35
+2002210,2003173,540.0,Hybrid,Customer Service Representative 4,2018-09-11,Brand 2,Customer Service - Brand 2,Hybrid,"Sr. Manager, Customer Service",2014-03-24,Brand 2,Customer Service - Brand 2,5.93,10.4
+2002210,3020739,496.0,Hybrid,Customer Service Representative 4,2018-09-11,Brand 2,Customer Service - Brand 2,Fully Remote,"Manager, Product Sourcing",2022-03-28,Brand 2,Product Merchandising - Brand 2,5.93,2.38
+2002210,2002027,267.0,Hybrid,Customer Service Representative 4,2018-09-11,Brand 2,Customer Service - Brand 2,Site Critical,Production Manager,2016-02-22,Operations,Manufacturing-Brand 1,5.93,8.48
+2002210,2002599,227.0,Hybrid,Customer Service Representative 4,2018-09-11,Brand 2,Customer Service - Brand 2,Site Critical,"Director, Quality",2018-06-04,Operations,Manufacturing-Brand 1,5.93,6.2
+2002210,2002271,194.0,Hybrid,Customer Service Representative 4,2018-09-11,Brand 2,Customer Service - Brand 2,Site Critical,Order Expediter 4,2017-04-10,Operations,Manufacturing-Brand 1,5.93,7.35
+2002210,3029869,180.0,Hybrid,Customer Service Representative 4,2018-09-11,Brand 2,Customer Service - Brand 2,Hybrid,Workforce Analyst I,2013-03-05,Brand 2,Customer Service - Brand 2,5.93,11.45
+2002210,2001885,127.0,Hybrid,Customer Service Representative 4,2018-09-11,Brand 2,Customer Service - Brand 2,Site Critical,"Director, Manufacturing",2017-08-28,Operations,Manufacturing-Brand 1,5.93,6.96
+3023032,3031524,19.0,Fully Remote,Sr. Software Development Engineer II,2022-07-18,Corporate,Engineering - Brand 2,Fully Remote,"Director, Engineering",2022-11-28,Corporate,Engineering - Brand 2,2.07,1.71
+3023032,3037311,19.0,Fully Remote,Sr. Software Development Engineer II,2022-07-18,Corporate,Engineering - Brand 2,Fully Remote,Sr. Principal Software Development Engineer,2023-08-28,Corporate,Engineering - Brand 2,2.07,0.96
+3023032,3034698,19.0,Fully Remote,Sr. Software Development Engineer II,2022-07-18,Corporate,Engineering - Brand 2,Fully Remote,Sr. Software Development Engineer I,2023-07-10,Corporate,Engineering - Brand 2,2.07,1.1
+3023032,2002605,19.0,Fully Remote,Sr. Software Development Engineer II,2022-07-18,Corporate,Engineering - Brand 2,Hybrid,Product Manager,2016-03-02,Corporate,Engineering - Brand 2,2.07,8.45
+3023032,2003186,19.0,Fully Remote,Sr. Software Development Engineer II,2022-07-18,Corporate,Engineering - Brand 2,Hybrid,Product Specialist II,2014-03-26,Corporate,Engineering - Brand 2,2.07,10.39
+3020739,2002939,6988.0,Fully Remote,"Manager, Product Sourcing",2022-03-28,Brand 2,Product Merchandising - Brand 2,Hybrid,Product Sourcing Analyst II,2020-11-30,Brand 2,Product Merchandising - Brand 2,2.38,3.7
+3020739,2003174,4530.0,Fully Remote,"Manager, Product Sourcing",2022-03-28,Brand 2,Product Merchandising - Brand 2,Hybrid,Buyer II,2018-04-05,Corporate,Supply Chain,2.38,6.36
+3020739,2003155,3556.0,Fully Remote,"Manager, Product Sourcing",2022-03-28,Brand 2,Product Merchandising - Brand 2,Hybrid,"Director, Business Line",2018-11-05,Brand 2,Product Merchandising - Brand 2,2.38,5.78
+3020739,2003209,2893.0,Fully Remote,"Manager, Product Sourcing",2022-03-28,Brand 2,Product Merchandising - Brand 2,Hybrid,"Manager, Merchandising",2015-11-02,Brand 2,Product Merchandising - Brand 2,2.38,8.79
+3020739,2002864,1222.0,Fully Remote,"Manager, Product Sourcing",2022-03-28,Brand 2,Product Merchandising - Brand 2,Hybrid,Sr. Environmental Health & Safety Manager,2019-04-29,Operations,Environmental Health & Safety,2.38,5.3
+3020739,2002027,673.0,Fully Remote,"Manager, Product Sourcing",2022-03-28,Brand 2,Product Merchandising - Brand 2,Site Critical,Production Manager,2016-02-22,Operations,Manufacturing-Brand 1,2.38,8.48
+3020739,2001896,521.0,Fully Remote,"Manager, Product Sourcing",2022-03-28,Brand 2,Product Merchandising - Brand 2,Site Critical,"Spvsr, Lab Process II",2015-09-21,Operations,Manufacturing-Brand 1,2.38,8.9
+3020739,2002247,437.0,Fully Remote,"Manager, Product Sourcing",2022-03-28,Brand 2,Product Merchandising - Brand 2,Site Critical,Production Manager,2017-02-06,Operations,Manufacturing-Brand 1,2.38,7.52
+3020739,2001171,308.0,Fully Remote,"Manager, Product Sourcing",2022-03-28,Brand 2,Product Merchandising - Brand 2,Site Critical,"Spvsr, Lab Process II",2010-05-24,Operations,Manufacturing-Brand 1,2.38,14.23
+2002939,3020739,4879.0,Hybrid,Product Sourcing Analyst II,2020-11-30,Brand 2,Product Merchandising - Brand 2,Fully Remote,"Manager, Product Sourcing",2022-03-28,Brand 2,Product Merchandising - Brand 2,3.7,2.38
+2002939,2003174,1940.0,Hybrid,Product Sourcing Analyst II,2020-11-30,Brand 2,Product Merchandising - Brand 2,Hybrid,Buyer II,2018-04-05,Corporate,Supply Chain,3.7,6.36
+2002939,3025972,391.0,Hybrid,Product Sourcing Analyst II,2020-11-30,Brand 2,Product Merchandising - Brand 2,Fully Remote,Sr. Account Service Manager I,2022-08-22,Brand 2,Sales - Brand 2,3.7,1.98
+2002939,2003112,378.0,Hybrid,Product Sourcing Analyst II,2020-11-30,Brand 2,Product Merchandising - Brand 2,Hybrid,Sr. Account Service Manager I,2021-05-10,Brand 2,Sales - Brand 2,3.7,3.26
+2003137,2003173,664.0,Hybrid,"Spvsr, Customer Service I",2013-03-04,Brand 2,Customer Service - Brand 2,Hybrid,"Sr. Manager, Customer Service",2014-03-24,Brand 2,Customer Service - Brand 2,11.45,10.4
+2003137,2003036,408.0,Hybrid,"Spvsr, Customer Service I",2013-03-04,Brand 2,Customer Service - Brand 2,Hybrid,"Director, Sales",2021-02-15,Brand 2,Sales - Brand 2,11.45,3.49
+2003137,2003198,165.0,Hybrid,"Spvsr, Customer Service I",2013-03-04,Brand 2,Customer Service - Brand 2,Hybrid,Customer Service Representative 4,2019-08-21,Brand 2,Customer Service - Brand 2,11.45,4.98
+2003137,3029349,164.0,Hybrid,"Spvsr, Customer Service I",2013-03-04,Brand 2,Customer Service - Brand 2,Fully Remote,Customer Service Representative 4,2022-10-10,Brand 2,Customer Service - Brand 2,11.45,1.84
+2003137,2001289,140.0,Hybrid,"Spvsr, Customer Service I",2013-03-04,Brand 2,Customer Service - Brand 2,Hybrid,Client Services Specialist II,2012-03-15,Operations,Manufacturing-Brand 1,11.45,12.42
+2003137,2003112,126.0,Hybrid,"Spvsr, Customer Service I",2013-03-04,Brand 2,Customer Service - Brand 2,Hybrid,Sr. Account Service Manager I,2021-05-10,Brand 2,Sales - Brand 2,11.45,3.26
+2003137,3042755,102.0,Hybrid,"Spvsr, Customer Service I",2013-03-04,Brand 2,Customer Service - Brand 2,Fully Remote,"Manager, CRM",2024-01-08,Brand 2,Marketing - Brand 2,11.45,0.6
+2003137,3042370,47.0,Hybrid,"Spvsr, Customer Service I",2013-03-04,Brand 2,Customer Service - Brand 2,Fully Remote,"Director, Growth - Brand 2",2023-11-27,Brand 2,Marketing - Brand 2,11.45,0.71
+3021660,3031524,2768.0,Hybrid,"Sr. Director, eCommerce",2022-05-09,Corporate,Engineering - Brand 2,Fully Remote,"Director, Engineering",2022-11-28,Corporate,Engineering - Brand 2,2.27,1.71
+3021660,3040598,1778.0,Hybrid,"Sr. Director, eCommerce",2022-05-09,Corporate,Engineering - Brand 2,Fully Remote,"VP, GM Brand 2",2023-10-04,Corporate,Leadership,2.27,0.86
+3021660,2002605,1579.0,Hybrid,"Sr. Director, eCommerce",2022-05-09,Corporate,Engineering - Brand 2,Hybrid,Product Manager,2016-03-02,Corporate,Engineering - Brand 2,2.27,8.45
+3021660,3027478,1492.0,Hybrid,"Sr. Director, eCommerce",2022-05-09,Corporate,Engineering - Brand 2,Fully Remote,Product Manager,2022-09-12,Corporate,Engineering - Brand 2,2.27,1.92
+3021660,2003191,807.0,Hybrid,"Sr. Director, eCommerce",2022-05-09,Corporate,Engineering - Brand 2,Hybrid,"Director, Finance",2017-08-07,Corporate,Finance,2.27,7.02
+3021660,3029814,769.0,Hybrid,"Sr. Director, eCommerce",2022-05-09,Corporate,Engineering - Brand 2,Fully Remote,"Director, UX Design",2022-10-31,Corporate,Engineering - Brand 2,2.27,1.79
+3021660,3042739,710.0,Hybrid,"Sr. Director, eCommerce",2022-05-09,Corporate,Engineering - Brand 2,Fully Remote,Sr. Principal Data Engineer,2024-01-16,Corporate,Engineering - Brand 2,2.27,0.58
+3021660,2002394,664.0,Hybrid,"Sr. Director, eCommerce",2022-05-09,Corporate,Engineering - Brand 2,Hybrid,"Manager, Product Management",2015-03-13,Corporate,Engineering - Brand 2,2.27,9.43
+3021660,3043957,620.0,Hybrid,"Sr. Director, eCommerce",2022-05-09,Corporate,Engineering - Brand 2,Fully Remote,"SVP, Chief Product and Technology Officer",2024-03-25,Corporate,Leadership,2.27,0.39
+3025961,2002838,9.0,Fully Remote,Sr. Software Development Engineer I,2022-08-29,Corporate,Engineering - Brand 2,Hybrid,Principal Software Development Engineer,2021-07-26,Corporate,Engineering - Brand 2,1.96,3.05
+3025961,3021660,9.0,Fully Remote,Sr. Software Development Engineer I,2022-08-29,Corporate,Engineering - Brand 2,Hybrid,"Sr. Director, eCommerce",2022-05-09,Corporate,Engineering - Brand 2,1.96,2.27
+2003186,3021660,905.0,Hybrid,Product Specialist II,2014-03-26,Corporate,Engineering - Brand 2,Hybrid,"Sr. Director, eCommerce",2022-05-09,Corporate,Engineering - Brand 2,10.39,2.27
+2003186,2002605,545.0,Hybrid,Product Specialist II,2014-03-26,Corporate,Engineering - Brand 2,Hybrid,Product Manager,2016-03-02,Corporate,Engineering - Brand 2,10.39,8.45
+2003186,2002394,241.0,Hybrid,Product Specialist II,2014-03-26,Corporate,Engineering - Brand 2,Hybrid,"Manager, Product Management",2015-03-13,Corporate,Engineering - Brand 2,10.39,9.43
+2003186,3027478,231.0,Hybrid,Product Specialist II,2014-03-26,Corporate,Engineering - Brand 2,Fully Remote,Product Manager,2022-09-12,Corporate,Engineering - Brand 2,10.39,1.92
+2003186,3023646,105.0,Hybrid,Product Specialist II,2014-03-26,Corporate,Engineering - Brand 2,Fully Remote,Product Specialist II,2022-08-01,Corporate,Engineering - Brand 2,10.39,2.04
+2003186,2003000,102.0,Hybrid,Product Specialist II,2014-03-26,Corporate,Engineering - Brand 2,Fully Remote,Sr. Product Specialist I,2013-02-11,Corporate,Engineering - Brand 2,10.39,11.51
+3043751,2003209,429.0,Hybrid,Merchandising Specialist II,2024-03-18,Brand 2,Product Merchandising - Brand 2,Hybrid,"Manager, Merchandising",2015-11-02,Brand 2,Product Merchandising - Brand 2,0.41,8.79
+3043751,2003155,319.0,Hybrid,Merchandising Specialist II,2024-03-18,Brand 2,Product Merchandising - Brand 2,Hybrid,"Director, Business Line",2018-11-05,Brand 2,Product Merchandising - Brand 2,0.41,5.78
+3043751,2003018,85.0,Hybrid,Merchandising Specialist II,2024-03-18,Brand 2,Product Merchandising - Brand 2,Hybrid,"Sr. Manager, Merchandising",2015-03-04,Brand 2,Product Merchandising - Brand 2,0.41,9.45
+3043751,2002939,84.0,Hybrid,Merchandising Specialist II,2024-03-18,Brand 2,Product Merchandising - Brand 2,Hybrid,Product Sourcing Analyst II,2020-11-30,Brand 2,Product Merchandising - Brand 2,0.41,3.7
+3043751,2002605,83.0,Hybrid,Merchandising Specialist II,2024-03-18,Brand 2,Product Merchandising - Brand 2,Hybrid,Product Manager,2016-03-02,Corporate,Engineering - Brand 2,0.41,8.45
+3043751,3033414,83.0,Hybrid,Merchandising Specialist II,2024-03-18,Brand 2,Product Merchandising - Brand 2,Fully Remote,Sr. Merchandising Specialist I,2023-04-10,Brand 2,Product Merchandising - Brand 2,0.41,1.35
+3043751,3045090,49.0,Hybrid,Merchandising Specialist II,2024-03-18,Brand 2,Product Merchandising - Brand 2,Hybrid,CRM Manager II,2024-07-08,Brand 2,Marketing - Brand 2,0.41,0.1
+3043751,3042370,48.0,Hybrid,Merchandising Specialist II,2024-03-18,Brand 2,Product Merchandising - Brand 2,Fully Remote,"Director, Growth - Brand 2",2023-11-27,Brand 2,Marketing - Brand 2,0.41,0.71
+2003064,2003144,130.0,Hybrid,Sr. Software Development Engineer I,2015-10-28,Corporate,Engineering - Brand 2,Hybrid,Principal Software Development Engineer,2014-06-23,Corporate,Engineering - Brand 2,8.8,10.15
+2003064,2003175,84.0,Hybrid,Sr. Software Development Engineer I,2015-10-28,Corporate,Engineering - Brand 2,Hybrid,"Sr. Manager, Engineering",2016-01-26,Corporate,Engineering - Brand 2,8.8,8.55
+2003064,2002394,83.0,Hybrid,Sr. Software Development Engineer I,2015-10-28,Corporate,Engineering - Brand 2,Hybrid,"Manager, Product Management",2015-03-13,Corporate,Engineering - Brand 2,8.8,9.43
+2003064,2002955,57.0,Hybrid,Sr. Software Development Engineer I,2015-10-28,Corporate,Engineering - Brand 2,Hybrid,Sr. Software Development Engineer I,2014-03-12,Corporate,Engineering - Brand 2,8.8,10.43
+2003064,2003217,47.0,Hybrid,Sr. Software Development Engineer I,2015-10-28,Corporate,Engineering - Brand 2,Hybrid,Principal Software Development Engineer,2019-02-21,Corporate,Engineering - Brand 2,8.8,5.48
+2003064,3027478,27.0,Hybrid,Sr. Software Development Engineer I,2015-10-28,Corporate,Engineering - Brand 2,Fully Remote,Product Manager,2022-09-12,Corporate,Engineering - Brand 2,8.8,1.92
+2003064,3022052,19.0,Hybrid,Sr. Software Development Engineer I,2015-10-28,Corporate,Engineering - Brand 2,Hybrid,"Manager, Product Management",2022-05-23,Corporate,Technology,8.8,2.23
+2003064,3023646,19.0,Hybrid,Sr. Software Development Engineer I,2015-10-28,Corporate,Engineering - Brand 2,Fully Remote,Product Specialist II,2022-08-01,Corporate,Engineering - Brand 2,8.8,2.04
+3034698,2001659,1.0,Fully Remote,Sr. Software Development Engineer I,2023-07-10,Corporate,Engineering - Brand 2,Hybrid,"Sr. Director, Platform Architecture",2014-09-15,Corporate,Technology,1.1,9.92
+3034698,2001504,1.0,Fully Remote,Sr. Software Development Engineer I,2023-07-10,Corporate,Engineering - Brand 2,Hybrid,"Director, Network Systems",2013-11-04,Corporate,Technology,1.1,10.78
+3034698,2001556,1.0,Fully Remote,Sr. Software Development Engineer I,2023-07-10,Corporate,Engineering - Brand 2,Hybrid,"VP, CISO",2014-03-24,Corporate,Technology,1.1,10.4
+2003109,2003156,1294.0,Fully Remote,Lead Customer Service Representative 5,2021-01-25,Brand 2,Customer Service - Brand 2,Hybrid,"Manager, Customer Service",2015-03-09,Brand 2,Customer Service - Brand 2,3.55,9.44
+2003109,2003173,1191.0,Fully Remote,Lead Customer Service Representative 5,2021-01-25,Brand 2,Customer Service - Brand 2,Hybrid,"Sr. Manager, Customer Service",2014-03-24,Brand 2,Customer Service - Brand 2,3.55,10.4
+2003109,3042755,39.0,Fully Remote,Lead Customer Service Representative 5,2021-01-25,Brand 2,Customer Service - Brand 2,Fully Remote,"Manager, CRM",2024-01-08,Brand 2,Marketing - Brand 2,3.55,0.6
+2003109,2002910,20.0,Fully Remote,Lead Customer Service Representative 5,2021-01-25,Brand 2,Customer Service - Brand 2,Hybrid,Customer Service Representative 4,2020-05-26,Brand 2,Customer Service - Brand 2,3.55,4.22
+2003109,2001289,9.0,Fully Remote,Lead Customer Service Representative 5,2021-01-25,Brand 2,Customer Service - Brand 2,Hybrid,Client Services Specialist II,2012-03-15,Operations,Manufacturing-Brand 1,3.55,12.42
+2002936,2003193,134.0,Hybrid,Customer Service Representative 4,2020-08-10,Brand 2,Customer Service - Brand 2,Hybrid,"Spvsr, Customer Service I",2020-08-10,Brand 2,Customer Service - Brand 2,4.01,4.01
+2002936,2002166,36.0,Hybrid,Customer Service Representative 4,2020-08-10,Brand 2,Customer Service - Brand 2,Hybrid,Partner Marketing Specialist I,2014-09-29,Brand 2,Marketing - Brand 2,4.01,9.88
+2002936,2003156,34.0,Hybrid,Customer Service Representative 4,2020-08-10,Brand 2,Customer Service - Brand 2,Hybrid,"Manager, Customer Service",2015-03-09,Brand 2,Customer Service - Brand 2,4.01,9.44
+2002936,2003173,28.0,Hybrid,Customer Service Representative 4,2020-08-10,Brand 2,Customer Service - Brand 2,Hybrid,"Sr. Manager, Customer Service",2014-03-24,Brand 2,Customer Service - Brand 2,4.01,10.4
+2002936,2002643,19.0,Hybrid,Customer Service Representative 4,2020-08-10,Brand 2,Customer Service - Brand 2,Hybrid,"Manager, Marketing",2021-05-03,Brand 2,Marketing - Brand 2,4.01,3.28
+2002936,2002680,19.0,Hybrid,Customer Service Representative 4,2020-08-10,Brand 2,Customer Service - Brand 2,Hybrid,Collaborations Specialist I,2020-06-16,Brand 2,Marketing - Brand 2,4.01,4.16
+2002936,3028421,18.0,Hybrid,Customer Service Representative 4,2020-08-10,Brand 2,Customer Service - Brand 2,Site Critical,Office Administrator 2,2022-09-26,Operations,Environmental Health & Safety,4.01,1.88
+2003180,2003193,90.0,Hybrid,Customer Service Representative 4,2019-08-20,Brand 2,Customer Service - Brand 2,Hybrid,"Spvsr, Customer Service I",2020-08-10,Brand 2,Customer Service - Brand 2,4.99,4.01
+2003180,2001171,52.0,Hybrid,Customer Service Representative 4,2019-08-20,Brand 2,Customer Service - Brand 2,Site Critical,"Spvsr, Lab Process II",2010-05-24,Operations,Manufacturing-Brand 1,4.99,14.23
+2003180,2002271,37.0,Hybrid,Customer Service Representative 4,2019-08-20,Brand 2,Customer Service - Brand 2,Site Critical,Order Expediter 4,2017-04-10,Operations,Manufacturing-Brand 1,4.99,7.35
+2003180,3019842,29.0,Hybrid,Customer Service Representative 4,2019-08-20,Brand 2,Customer Service - Brand 2,Hybrid,Client Services Coordinator II,2022-02-14,Operations,Manufacturing-Brand 1,4.99,2.5
+2003180,2002247,19.0,Hybrid,Customer Service Representative 4,2019-08-20,Brand 2,Customer Service - Brand 2,Site Critical,Production Manager,2017-02-06,Operations,Manufacturing-Brand 1,4.99,7.52
+2003173,3040598,1569.0,Hybrid,"Sr. Manager, Customer Service",2014-03-24,Brand 2,Customer Service - Brand 2,Fully Remote,"VP, GM Brand 2",2023-10-04,Corporate,Leadership,10.4,0.86
+2003173,2003156,886.0,Hybrid,"Sr. Manager, Customer Service",2014-03-24,Brand 2,Customer Service - Brand 2,Hybrid,"Manager, Customer Service",2015-03-09,Brand 2,Customer Service - Brand 2,10.4,9.44
+2003173,2003036,834.0,Hybrid,"Sr. Manager, Customer Service",2014-03-24,Brand 2,Customer Service - Brand 2,Hybrid,"Director, Sales",2021-02-15,Brand 2,Sales - Brand 2,10.4,3.49
+2003173,2003155,826.0,Hybrid,"Sr. Manager, Customer Service",2014-03-24,Brand 2,Customer Service - Brand 2,Hybrid,"Director, Business Line",2018-11-05,Brand 2,Product Merchandising - Brand 2,10.4,5.78
+2003173,2003137,545.0,Hybrid,"Sr. Manager, Customer Service",2014-03-24,Brand 2,Customer Service - Brand 2,Hybrid,"Spvsr, Customer Service I",2013-03-04,Brand 2,Customer Service - Brand 2,10.4,11.45
+2003173,2002027,452.0,Hybrid,"Sr. Manager, Customer Service",2014-03-24,Brand 2,Customer Service - Brand 2,Site Critical,Production Manager,2016-02-22,Operations,Manufacturing-Brand 1,10.4,8.48
+2003173,2002271,344.0,Hybrid,"Sr. Manager, Customer Service",2014-03-24,Brand 2,Customer Service - Brand 2,Site Critical,Order Expediter 4,2017-04-10,Operations,Manufacturing-Brand 1,10.4,7.35
+2003173,2003000,320.0,Hybrid,"Sr. Manager, Customer Service",2014-03-24,Brand 2,Customer Service - Brand 2,Fully Remote,Sr. Product Specialist I,2013-02-11,Corporate,Engineering - Brand 2,10.4,11.51
+2003173,2002210,292.0,Hybrid,"Sr. Manager, Customer Service",2014-03-24,Brand 2,Customer Service - Brand 2,Hybrid,Customer Service Representative 4,2018-09-11,Brand 2,Customer Service - Brand 2,10.4,5.93
+2003198,2003173,114.0,Hybrid,Customer Service Representative 4,2019-08-21,Brand 2,Customer Service - Brand 2,Hybrid,"Sr. Manager, Customer Service",2014-03-24,Brand 2,Customer Service - Brand 2,4.98,10.4
+2003198,2003137,67.0,Hybrid,Customer Service Representative 4,2019-08-21,Brand 2,Customer Service - Brand 2,Hybrid,"Spvsr, Customer Service I",2013-03-04,Brand 2,Customer Service - Brand 2,4.98,11.45
+2003198,2002271,47.0,Hybrid,Customer Service Representative 4,2019-08-21,Brand 2,Customer Service - Brand 2,Site Critical,Order Expediter 4,2017-04-10,Operations,Manufacturing-Brand 1,4.98,7.35
+2003198,3029349,46.0,Hybrid,Customer Service Representative 4,2019-08-21,Brand 2,Customer Service - Brand 2,Fully Remote,Customer Service Representative 4,2022-10-10,Brand 2,Customer Service - Brand 2,4.98,1.84
+2003198,2002210,43.0,Hybrid,Customer Service Representative 4,2019-08-21,Brand 2,Customer Service - Brand 2,Hybrid,Customer Service Representative 4,2018-09-11,Brand 2,Customer Service - Brand 2,4.98,5.93
+2003198,2002599,37.0,Hybrid,Customer Service Representative 4,2019-08-21,Brand 2,Customer Service - Brand 2,Site Critical,"Director, Quality",2018-06-04,Operations,Manufacturing-Brand 1,4.98,6.2
+3029869,2003173,469.0,Hybrid,Workforce Analyst I,2013-03-05,Brand 2,Customer Service - Brand 2,Hybrid,"Sr. Manager, Customer Service",2014-03-24,Brand 2,Customer Service - Brand 2,11.45,10.4
+3029869,2003191,349.0,Hybrid,Workforce Analyst I,2013-03-05,Brand 2,Customer Service - Brand 2,Hybrid,"Director, Finance",2017-08-07,Corporate,Finance,11.45,7.02
+3029869,2003156,282.0,Hybrid,Workforce Analyst I,2013-03-05,Brand 2,Customer Service - Brand 2,Hybrid,"Manager, Customer Service",2015-03-09,Brand 2,Customer Service - Brand 2,11.45,9.44
+3029869,2003000,113.0,Hybrid,Workforce Analyst I,2013-03-05,Brand 2,Customer Service - Brand 2,Fully Remote,Sr. Product Specialist I,2013-02-11,Corporate,Engineering - Brand 2,11.45,11.51
+3029869,3020739,103.0,Hybrid,Workforce Analyst I,2013-03-05,Brand 2,Customer Service - Brand 2,Fully Remote,"Manager, Product Sourcing",2022-03-28,Brand 2,Product Merchandising - Brand 2,11.45,2.38
+3029869,3021660,96.0,Hybrid,Workforce Analyst I,2013-03-05,Brand 2,Customer Service - Brand 2,Hybrid,"Sr. Director, eCommerce",2022-05-09,Corporate,Engineering - Brand 2,11.45,2.27
+3029869,2002605,82.0,Hybrid,Workforce Analyst I,2013-03-05,Brand 2,Customer Service - Brand 2,Hybrid,Product Manager,2016-03-02,Corporate,Engineering - Brand 2,11.45,8.45
+3029869,2003137,37.0,Hybrid,Workforce Analyst I,2013-03-05,Brand 2,Customer Service - Brand 2,Hybrid,"Spvsr, Customer Service I",2013-03-04,Brand 2,Customer Service - Brand 2,11.45,11.45
+3040598,2003155,3374.0,Fully Remote,"VP, GM Brand 2",2023-10-04,Corporate,Leadership,Hybrid,"Director, Business Line",2018-11-05,Brand 2,Product Merchandising - Brand 2,0.86,5.78
+3040598,3021660,2654.0,Fully Remote,"VP, GM Brand 2",2023-10-04,Corporate,Leadership,Hybrid,"Sr. Director, eCommerce",2022-05-09,Corporate,Engineering - Brand 2,0.86,2.27
+3040598,3042370,2454.0,Fully Remote,"VP, GM Brand 2",2023-10-04,Corporate,Leadership,Fully Remote,"Director, Growth - Brand 2",2023-11-27,Brand 2,Marketing - Brand 2,0.86,0.71
+3040598,2003148,2025.0,Fully Remote,"VP, GM Brand 2",2023-10-04,Corporate,Leadership,Hybrid,"Sr. Director, Marketing",2015-11-16,Brand 2,Marketing - Brand 2,0.86,8.75
+3040598,2003036,1949.0,Fully Remote,"VP, GM Brand 2",2023-10-04,Corporate,Leadership,Hybrid,"Director, Sales",2021-02-15,Brand 2,Sales - Brand 2,0.86,3.49
+3040598,2003173,1735.0,Fully Remote,"VP, GM Brand 2",2023-10-04,Corporate,Leadership,Hybrid,"Sr. Manager, Customer Service",2014-03-24,Brand 2,Customer Service - Brand 2,0.86,10.4
+3040598,2003191,1342.0,Fully Remote,"VP, GM Brand 2",2023-10-04,Corporate,Leadership,Hybrid,"Director, Finance",2017-08-07,Corporate,Finance,0.86,7.02
+3040598,3004803,1168.0,Fully Remote,"VP, GM Brand 2",2023-10-04,Corporate,Leadership,Hybrid,"Sr. Director, Human Resources",2020-10-26,Corporate,Human Resources,0.86,3.8
+3040598,2001575,606.0,Fully Remote,"VP, GM Brand 2",2023-10-04,Corporate,Leadership,Hybrid,Director Finance,2022-05-16,Corporate,Finance,0.86,2.25
